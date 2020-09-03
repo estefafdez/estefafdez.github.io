@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Estefania Fernandez Muñoz
 title: Automation QA Engineer
 email: estefafdez@gmail.com
-blog: https://unaqaenapuros.wordpress.com/
+website: https://unaqaenapuros.wordpress.com/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -23,7 +23,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, My name is Estefania and I am an Automation QA Engineer at YouCanBook.Me working remotely from Seville (Spain).
 
-
   I am a passionate about software quality, most of all about Selenium Webdriver, Appium, Cypress or any other tool for Automation Testing.
 
 # Projects Section
@@ -38,11 +37,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in QA and Software Engineering some of my other interests and hobbies are:
+   - TV shows 
+   - Music
+   - Movies
 
 # Footer
 footer_show_references: true
