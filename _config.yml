@@ -28,6 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Few things about me:
 
+    - ISTQB® Foundation Level (CTFL) certification.
     - Significant QA Engineer and Automation experience (Selenium Webdriver, Appium, Cypress).
     - Experience in Manual and Automated Testing for Software Quality Assurance. 
     - First Certificate in English (FCE) and excellent communication skills. 
@@ -53,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: More Information
 more_content: |
-    Some videos of my live training presentations: 
+    Some videos of my live training sessions: 
     
     Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019
       - [https://www.youtube.com/watch?v=xLLbVCjUV-8&li](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
