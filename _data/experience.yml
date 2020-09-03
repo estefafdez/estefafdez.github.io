@@ -1,9 +1,21 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: YouCanBook.Me
+  link: https://youcanbook.me/
+  job_title: Remote. QA Automation Engineer
+  dates: April 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Working on a small team to do great things remotely. Creation and setting up the QA bases on the company. Define the QA strategy. Create the CI/CD model using Docker, Terraform and AWS (Code Build).
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+   Main responsibilities: QA project management and leadership: define strategy on the quality bases for the company, estimation and planning. Design and creation of automated tests: E2E and API testing using Selenium and Cypress.
+   Technologies: Jira, Testrail, Java, Javascript, Cypress, Selenium, Maven, React Test Library, TestNG, Junit, Postman, CodeBuild, CodePipeline, Terraform. (April 2019 - Currently)
+
+- layout: left
+  company: SDOS
+  link: https://sdos.es/
+  job_title: Head of QA / DevOps.
+  dates: June 2017 – April 2019
+  quote: >
+   Creation and setting up the QA Department. Define the QA strategy. Create the CI/CD model using Jenkins and Docker. Featured Project: Android app development for the El Corte Ingles, Inditex, and Android/iOS development of Prisa Group and CCMA (Corporación Catalana de Medios Audiovisuales).
+  description: | # this will include new lines to allow paragraphs
+   Main responsibilities: QA Team management and leadership: currently 7 people, estimation and planning, design and creation of the Selenium and Appium Core for SDOS, Quality Lead, creation, development and maintenance of the CD/CI Structure for Android and QA using pipelines along with Jenkins. 
+   Technologies: Redmine, Jira, Testrail, Jira, Java, Drupal, Android Development, iOS development, Jenkins, Sonar, Artifactory / Nexus, Selenium, Appium, TestNG, JUnit, Jmeter, MobSF, Docker, Kubernetes, Wiremock, Continuous Integration, Continuous Deployment, Declarative Pipelines, Jenkinsfile
