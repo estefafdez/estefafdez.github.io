@@ -3,24 +3,24 @@
   dates: 2013 - 2014
   qualification: Master in Software Engineering and Technology
 
-- layout: right
+- layout: top
   name: University of Córdoba
   dates: 2005 - 2012
   qualification: Technical Engineer of Computer Science Management
 
-- layout: left
+- layout: right
   name: Technicka Univerzita Ostrava (Vysoká škola Báňská), Czech Republic
   dates: 2011 - 2011
   qualification: Erasmus Scholarship
 
 # Aditional training
 
-- layout: right
+- layout: left
   name: ISTQB - International Software Testing Qualifications Board
   dates: July 2018.
   qualification: ISTQB Foundation Level
 
-- layout: left
+- layout: top
   name: Cambridge University
   dates: January 2014.
   qualification: Cambridge English First (FCE)
