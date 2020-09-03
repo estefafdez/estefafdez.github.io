@@ -1,14 +1,14 @@
-- layout: left
+- layout: top-middle
   name: University of Seville
   dates: 2013 - 2014
   qualification: Master in Software Engineering and Technology
 
-- layout: top
+- layout: top-middle
   name: University of Córdoba
   dates: 2005 - 2012
   qualification: Technical Engineer of Computer Science Management
 
-- layout: top-right
+- layout: top-middle
   name: Technicka Univerzita Ostrava (Vysoká škola Báňská), Czech Republic
   dates: 2011 - 2011
   qualification: Erasmus Scholarship
@@ -20,12 +20,12 @@
   dates: July 2018.
   qualification: ISTQB Foundation Level
 
-- layout: right
+- layout: top-middle
   name: Cambridge University
   dates: January 2014.
   qualification: Cambridge English First (FCE)
 
-- layout: left
+- layout: top-middle
   name: Bitnami
   dates: 20 hours. May 2018.
   qualification: Advanced Kubernetes Training
