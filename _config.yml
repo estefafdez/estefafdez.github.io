@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Estefania Fernandez Muñoz
-title: Technical Engineering in Computer Management. Master in Software Engineering and Technology. Automation QA Engineer
+title: Technical Engineering in Computer Management. Master in Software Engineering and Technology. Automation QA Engineer.
 email: estefafdez@gmail.com
 website: https://unaqaenapuros.wordpress.com/
 
@@ -21,9 +21,11 @@ youtube_username: estefafdez
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, My name is Estefania and I am an Automation QA Engineer at YouCanBook.Me working remotely from Seville (Spain).
+  Hello, My name is Estefania and I am an Automation QA Engineer at YouCanBook.Me 
+  working remotely from Seville (Spain).
 
-  I am a passionate about software quality, most of all about <mark>Selenium Webdriver</mark>, <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
+  I am a passionate about software quality, most of all about <mark>Selenium Webdriver</mark>, 
+  <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
 
 # Experience Section
 # experience_title: Experience
@@ -38,6 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in QA and Software Engineering some of my other interests and hobbies are:
+    
    - TV shows 
    - Music
    - Movies
