@@ -1,8 +1,47 @@
 - layout: left
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  name: Una QA En Apuros (Blog)
+  link: https://unaqaenapuros.wordpress.com/
+  description: | 
+    Creation of the blog “Una QA en Apuros” on Wordpress where I published articles related with the software quality focus on the automation testing open source tools such as Appium, Selenium or Cypress. 
+    Also you can find articles about CI/CD tools such as Jenkins. 
+
+- layout: left
+    name: appium-native-java-example
+    github: https://github.com/estefafdez/appium-native-java-example
+    description: | 
+      Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
+
+- layout: left
+    name: Selenium Pipeline on Jenkins
+    github: https://github.com/estefafdez/selenium-pipeline
+    description: | 
+      Run your Selenium Test easily using this declarative pipeline on Jenkins. 
+  
+- layout: left
+  name: Barista Android App
+  github: https://github.com/estefafdez/AndroidBaristaProject
+  description: | 
+    A simple Android App along with Barista for Testing Purposes.
+
+- layout: left
+  name: iOS Test App
+  github: https://github.com/estefafdez/iOSTestApp
+  description: | 
+    A simple iOS App with Swift and Xcode 8 for Testing Purposes.
+
+- layout: left
+  name: Selenium Cucumber Project
+  github: https://github.com/estefafdez/selenium-cucumber/
+  description: | 
+    This project is a Selenium Webdriver 3.0.1 integration with Cucumber on Java and include several features, such as:
+    
+    - Choose your OS, Browser and Log Level on the POM: On the pom.xml file you can choose between: Several OS: Windows, Mac, Linux, several Browsers: Chrome, Firefox, IE and several log level configuration: All, Debug, Info, Warn, Error, Fatal, Off.
+    
+    - Step Definition By Action: On this project you can find the following set of predefined steps ordered by action already done for you. The types of actions are: Assertion Steps, Click Steps, Configuration Steps, Input Steps...
+    
+    - SonarQube included: In order to maintain the quality of your code and your project, SonarQube is included on this repository, also the instruction to run SonarQube on Docker easily.
+
+
+  
+  
+  
