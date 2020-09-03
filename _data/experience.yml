@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   company: YouCanBook.Me
   link: https://youcanbook.me/
   job_title: Remote. QA Automation Engineer
@@ -12,7 +12,7 @@
    
    **Technologies:** Jira, Testrail, Java, Javascript, Cypress, Selenium, Maven, React Test Library, TestNG, Junit, Postman, CodeBuild, CodePipeline, Terraform.
 
-- layout: top-middle
+- layout: left
   company: SDOS
   link: https://sdos.es/
   job_title: Head of QA / DevOps.
