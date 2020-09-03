@@ -3,10 +3,13 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Estefania Fernandez
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
 twitter_username: facespics
