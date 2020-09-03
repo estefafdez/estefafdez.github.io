@@ -25,14 +25,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a passionate about software quality, most of all about <mark>Selenium Webdriver</mark>, <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
 
 # Education Section
 # educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
 
 # More Section
 # more_title: A Little More About Me
