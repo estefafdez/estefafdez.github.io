@@ -3,10 +3,11 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Estefania Fernandez
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Estefania Fernandez Muñoz
+title: Automation QA Engineer
+email: estefafdez@gmail.com
+website: https://estefafdez.github.io/
+blog: https://unaqaenapuros.wordpress.com/
 
 # Dark Mode (true/false/never)
 darkmode: true
