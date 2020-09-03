@@ -6,7 +6,6 @@ favicon: images/favicon.ico
 name: Estefanía Fernández Muñoz
 title: Technical Engineering in Computer Management. Master in Software Engineering and Technology. Automation QA Engineer.
 email: estefafdez@gmail.com
-website: https://estefafdez.github.io/
 website: https://unaqaenapuros.wordpress.com/
 
 # Dark Mode (true/false/never)
@@ -38,9 +37,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   If you have any question, suggestion or idea, you can write me an e-mail to: <mark>estefafdez@gmail.com</mark> or on my social media profiles.
 
-  Do you prefer booking a time to talk? Book a slot here! https://estefafdez.youcanbook.me/
+  Do you prefer booking a time to talk? Book a slot here! [https://estefafdez.youcanbook.me/](https://estefafdez.youcanbook.me/)
 
-  Visit my blog: https://unaqaenapuros.wordpress.com/
+  Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
 
 # Projects Section
 # projects_title: Projects
@@ -52,13 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-more_title: When I'm Not Programming
+more_title: More Information
 more_content: |
-  Alongside my interests in QA and Software Engineering some of my other interests and hobbies are:
-
-   - TV shows 
-   - Music
-   - Movies
+    Some videos of my live training presentations: 
+    
+    Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - YouCanBook Me
+      - [https://www.youtube.com/watch?v=xLLbVCjUV-8&li](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
 
 # Footer
 footer_show_references: false
