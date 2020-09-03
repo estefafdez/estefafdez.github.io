@@ -50,15 +50,19 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Certificates Section
+certificates_title: Certificates
+certificates_content: Prueba
+
 # More Section
 more_title: More Information
 more_content: |
     Some videos of my live training presentations: 
     
-    Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - YouCanBook Me
+    Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019
       - [https://www.youtube.com/watch?v=xLLbVCjUV-8&li](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
     
-    Cómo hacer test automáticos en aplicaciones iOS con Appium. 
+    Cómo hacer test automáticos en aplicaciones iOS con Appium - Open South Code 2019
       - [https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
 
 # Footer
