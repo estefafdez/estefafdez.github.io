@@ -34,9 +34,18 @@ about_content: | # this will include new lines to allow paragraphs
 
   I will be glad to answer all your questions and doubt.
 
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
 # More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+more_title: When I'm Not Programming
+more_content: |
   Alongside my interests in QA and Software Engineering some of my other interests and hobbies are:
 
    - TV shows 

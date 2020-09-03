@@ -1,9 +1,0 @@
-- layout: left
-  company: 1
-  link: 1
-  job_title: 1
-  dates: 1
-  quote: > 
-    1
-  description: | # this will include new lines to allow paragraphs
-    description 1
