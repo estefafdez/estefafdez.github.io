@@ -20,9 +20,9 @@ youtube_username: estefafdez
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hello, My name is Estefania and I am an Automation QA Engineer at YouCanBook.Me working remotely from Seville (Spain). 
+- Hello, My name is Estefania and I am an Automation QA Engineer at YouCanBook.Me working remotely from Seville (Spain). 
 
-I am a passionate about software quality, most of all about Selenium Webdriver, Appium, Cypress or any other tool for Automation Testing.
+- I am a passionate about software quality, most of all about Selenium Webdriver, Appium, Cypress or any other tool for Automation Testing.
 
 # Projects Section
 # projects_title: Projects
