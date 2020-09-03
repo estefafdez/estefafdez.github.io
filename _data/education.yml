@@ -1,34 +1,34 @@
 - layout: top-middle
-  name: University of Seville
+  name: Master in Software Engineering and Technology
   dates: 2013 - 2014
-  qualification: Master in Software Engineering and Technology
+  qualification: University of Seville
 
 - layout: top-middle
-  name: University of Córdoba
+  name: Technical Engineer of Computer Science Management
   dates: 2005 - 2012
-  qualification: Technical Engineer of Computer Science Management
+  qualification: University of Córdoba
 
 - layout: top-middle
-  name: Technicka Univerzita Ostrava (Vysoká škola Báňská), Czech Republic
+  name: Erasmus Scholarship
   dates: 2011 - 2011
-  qualification: Erasmus Scholarship
+  qualification: Technicka Univerzita Ostrava (Vysoká škola Báňská), Czech Republic
 
 # Aditional training
 
 - layout: top-middle
-  name: ISTQB - International Software Testing Qualifications Board
+  name: ISTQB Foundation Level
   dates: July 2018.
-  qualification: ISTQB Foundation Level
+  qualification: ISTQB - International Software Testing Qualifications Board
 
 - layout: top-middle
-  name: Cambridge University
+  name: Cambridge English First (FCE)
   dates: January 2014.
-  qualification: Cambridge English First (FCE)
+  qualification: Cambridge University
 
 - layout: top-middle
-  name: Bitnami
+  name: Advanced Kubernetes Training
   dates: 20 hours. May 2018.
-  qualification: Advanced Kubernetes Training
+  qualification: Bitnami
 
 
   
