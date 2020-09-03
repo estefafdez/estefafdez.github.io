@@ -6,16 +6,16 @@
     Also you can find articles about CI/CD tools such as Jenkins. 
 
 - layout: left
-    name: Appium Native Java Example
-    github: https://github.com/estefafdez/appium-native-java-example
-    description: | 
-      Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
+  name: Appium Native Java Example
+  github: https://github.com/estefafdez/appium-native-java-example
+  description: | 
+    Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
 
 - layout: left
-    name: Selenium Pipeline on Jenkins
-    github: https://github.com/estefafdez/selenium-pipeline
-    description: | 
-      Run your Selenium Test easily using this declarative pipeline on Jenkins. 
+  name: Selenium Pipeline on Jenkins
+  github: https://github.com/estefafdez/selenium-pipeline
+  description: | 
+    Run your Selenium Test easily using this declarative pipeline on Jenkins. 
   
 - layout: left
   name: Barista Android App
