@@ -23,7 +23,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, My name is Estefania and I am a Master in Software Engineering and Technology and Technical Engineering in Computer Management. 
 
-  I am a passionate about software quality, most of all about <mark>Selenium Webdriver</mark>, 
+  I am a passionate about Software Quality, most of all about <mark>Selenium Webdriver</mark>, 
   <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
 
   Few things about me:
@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Do you prefer booking a time to talk? Book a slot here! [https://estefafdez.youcanbook.me/](https://estefafdez.youcanbook.me/)
 
-  Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
+  Visit my blog about Quality Assurance and Automation Testing: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
 
 # Projects Section
 # projects_title: Projects
