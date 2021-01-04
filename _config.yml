@@ -69,61 +69,63 @@ more_content: |
       - https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/
 
 # Courses
-courses_title: Courses
-courses_content: |
-  2021: 
+content:
+  - title: Courses
+    layout: list
+    content: |
+    2021: 
 
-    - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones
-      January 2021
-      TAU (Test Automation University)
+      - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones
+        January 2021
+        TAU (Test Automation University)
 
-    - Web Element Locator Strategies - Andrew Knight
-      January 2021
-      TAU (Test Automation University)
+      - Web Element Locator Strategies - Andrew Knight
+        January 2021
+        TAU (Test Automation University)
 
-  2020:
+    2020:
 
-    - Introduction to TestNG - Rex Jones II
-      January 2020
-      TAU (Test Automation University)
+      - Introduction to TestNG - Rex Jones II
+        January 2020
+        TAU (Test Automation University)
 
-    - Introduction to Cypress - Gil Tayar
-      February 2020
-      TAU (Test Automation University)
+      - Introduction to Cypress - Gil Tayar
+        February 2020
+        TAU (Test Automation University)
 
-    - Selenium WebDriver with Java - Angy Jones
-      September 2020
-      TAU (Test Automation University)
+      - Selenium WebDriver with Java - Angy Jones
+        September 2020
+        TAU (Test Automation University)
 
-    - IntelliJ for Test Automation Engineers - Corina Pip
-      September 2020
-      TAU (Test Automation University)
+      - IntelliJ for Test Automation Engineers - Corina Pip
+        September 2020
+        TAU (Test Automation University)
 
-    - Java Programming - Angy Jones
-      September 2020
-      TAU (Test Automation University)
+      - Java Programming - Angy Jones
+        September 2020
+        TAU (Test Automation University)
 
-    - Modern Functional Test Automation Through Visual AI - Raja Rao DV
-      September 2020
-      TAU (Test Automation University)
+      - Modern Functional Test Automation Through Visual AI - Raja Rao DV
+        September 2020
+        TAU (Test Automation University)
 
-    - Automated Visual Testing with Appium - Jonathan Lipps
-      September 2020
-      TAU (Test Automation University)
+      - Automated Visual Testing with Appium - Jonathan Lipps
+        September 2020
+        TAU (Test Automation University)
 
-    - Source Control for Test Automation with Git - Simon Berner
-      September 2020
-      TAU (Test Automation University)
+      - Source Control for Test Automation with Git - Simon Berner
+        September 2020
+        TAU (Test Automation University)
 
-    - Setting a Foundation for Successful Test Automation - Angy Jones
-      January 2020
-      TAU (Test Automation University)
+      - Setting a Foundation for Successful Test Automation - Angy Jones
+        January 2020
+        TAU (Test Automation University)
 
 # Footer
 footer_show_references: false
 
 # Build settings
-remote_theme: mabhijithn/modern-resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
