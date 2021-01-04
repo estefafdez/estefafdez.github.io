@@ -68,11 +68,8 @@ more_content: |
     Programando se entienden las máquinas - Podcast Aula Software Libre
       - https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/
 
-# Courses
-content:
-  - title: Courses
-    layout: list
-    content: |
+    Courses over the years: 
+
     2021: 
 
       - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones
