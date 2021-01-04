@@ -12,6 +12,18 @@
     Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
 
 - layout: left
+  name: cypress-template
+  link: https://github.com/estefafdez/cypress-template
+  description: | 
+    Example of a real project based in Cypress with Page Object Model Implemented, API Tests, Github Actions and SonarCloud included. 
+
+- layout: left
+  name: selenium-template
+  link: https://github.com/estefafdez/selenium-template
+  description: | 
+    Example of a real project based in Selenium with Page Object Model Implemented and Travis CI. 
+
+- layout: left
   name: Selenium Pipeline on Jenkins
   link: https://github.com/estefafdez/selenium-pipeline
   description: | 
