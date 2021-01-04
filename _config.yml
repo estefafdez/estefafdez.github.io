@@ -123,7 +123,7 @@ courses_content: |
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: mabhijithn/modern-resume-theme
 
 sass:
   sass_dir: _sass
