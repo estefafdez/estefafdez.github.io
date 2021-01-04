@@ -33,6 +33,11 @@
 # Courses
 
 - layout: top-middle
+  name: Web Element Locator Strategies - Andrew Knight
+  dates: January 2021
+  qualification: TAU (Test Automation University)
+
+- layout: top-middle
   name: Introduction to TestNG - Rex Jones II
   dates: January 2020
   qualification: TAU (Test Automation University)
