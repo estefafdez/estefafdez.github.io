@@ -13,7 +13,7 @@ darkmode: true
 
 # Social links
 twitter_username: estefafdez
-github_username:  estefafdez
+github_username: estefafdez
 linkedin_username: estefafdez
 youtube_username: estefafdez
 
@@ -54,162 +54,162 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: More Information
 more_content: |
-    Some videos of my live training sessions: 
+  Some videos of my live training sessions: 
+
+  Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019
+    - [https://www.youtube.com/watch?v=xLLbVCjUV-8&li](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+
+  Cómo hacer test automáticos en aplicaciones iOS con Appium - Open South Code 2019
+    - [https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
+
+  Mujeres en Testing - Northem Quality - October 2020
+    - [https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+
+  Programando se entienden las máquinas - Podcast Aula Software Libre
+    - [https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+
+
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  Courses over the years: 
+
+  2021: 
+
+    - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones.
+      January 2021.
+      TAU (Test Automation University).
+
+    - Web Element Locator Strategies - Andrew Knight.
+      January 2021.
+      TAU (Test Automation University).
+
+    - Cucumber with Java - Giridhar Rajkumar.
+      January 2021.
+      TAU (Test Automation University).
+
+  2020:
+
+    - Introduction to TestNG - Rex Jones II.
+      January 2020.
+      TAU (Test Automation University).
+
+    - Introduction to Cypress - Gil Tayar.
+      February 2020.
+      TAU (Test Automation University).
     
-    Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019
-      - [https://www.youtube.com/watch?v=xLLbVCjUV-8&li](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
-    
-    Cómo hacer test automáticos en aplicaciones iOS con Appium - Open South Code 2019
-      - [https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
-    
-    Mujeres en Testing - Northem Quality - October 2020
-      - [https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+    - Test Automation- quick start - Rostyslav Apostol.
+      April 2020.
+      Udemy.
 
-    Programando se entienden las máquinas - Podcast Aula Software Libre
-      - [https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+    - Web Application Performance Testing - Mentors Native.
+      April 2020.
+      Udemy.  
 
+    - Test Driven Development con Java y Junit5 - Alejandro Polo Rangel.
+      April 2020.
+      Udemy.
 
-    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    
-    Courses over the years: 
+    - Selenium WebDriver with Java - Angy Jones.
+      September 2020.
+      TAU (Test Automation University).
 
-    2021: 
+    - IntelliJ for Test Automation Engineers - Corina Pip.
+      September 2020.
+      TAU (Test Automation University).
 
-      - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones.
-        January 2021.
-        TAU (Test Automation University).
+    - Java Programming - Angy Jones.
+      September 2020.
+      TAU (Test Automation University).
 
-      - Web Element Locator Strategies - Andrew Knight.
-        January 2021.
-        TAU (Test Automation University).
+    - Modern Functional Test Automation Through Visual AI - Raja Rao DV.
+      September 2020.
+      TAU (Test Automation University).
 
-      - Cucumber with Java - Giridhar Rajkumar.
-        January 2021.
-        TAU (Test Automation University).
+    - Automated Visual Testing with Appium - Jonathan Lipps.
+      September 2020.
+      TAU (Test Automation University).
 
-    2020:
+    - Source Control for Test Automation with Git - Simon Berner.
+      September 2020.
+      TAU (Test Automation University).
 
-      - Introduction to TestNG - Rex Jones II.
-        January 2020.
-        TAU (Test Automation University).
+    - Setting a Foundation for Successful Test Automation - Angy Jones.
+      January 2020.
+      TAU (Test Automation University).
 
-      - Introduction to Cypress - Gil Tayar.
-        February 2020.
-        TAU (Test Automation University).
-      
-      - Test Automation- quick start - Rostyslav Apostol.
-        April 2020.
-        Udemy.
+  2019: 
 
-      - Web Application Performance Testing - Mentors Native.
-        April 2020.
-        Udemy.  
+    - CP-SAT - Certified Professional Selenium Automation Testing - Agile Testing Alliance Org. 
+      February 2019.
+      Udemy.
 
-      - Test Driven Development con Java y Junit5 - Alejandro Polo Rangel.
-        April 2020.
-        Udemy.
+    - Accessibility Features on Android. 
+      February 2019.
+      Udemy.
 
-      - Selenium WebDriver with Java - Angy Jones.
-        September 2020.
-        TAU (Test Automation University).
+    - Jenkins Introduction for Developer - Tan Pham.
+      February 2019.
+      Udemy.
 
-      - IntelliJ for Test Automation Engineers - Corina Pip.
-        September 2020.
-        TAU (Test Automation University).
+    - CICD (DevOPs Tools) for Automation Testers (Selenium) - Automation Talks.
+      February 2019.
+      Udemy.
 
-      - Java Programming - Angy Jones.
-        September 2020.
-        TAU (Test Automation University).
+    - Making Chatbot & Voice Apps (with Dialogflow v1) - M.Inzamam Malik.
+      February 2019.
+      Udemy. 
 
-      - Modern Functional Test Automation Through Visual AI - Raja Rao DV.
-        September 2020.
-        TAU (Test Automation University).
+    - Automation Testing With HP UFT 14.00 Latest Version - Pavan Lalwani.
+      April 2019.
+      Udemy. 
 
-      - Automated Visual Testing with Appium - Jonathan Lipps.
-        September 2020.
-        TAU (Test Automation University).
+    - Everything for Software Tester - Testing World.
+      April 2019.
+      Udemy. 
 
-      - Source Control for Test Automation with Git - Simon Berner.
-        September 2020.
-        TAU (Test Automation University).
+    - Software Testing By Innovation Techniques - Ganesh Sahai.
+      May 2019.
+      Udemy. 
 
-      - Setting a Foundation for Successful Test Automation - Angy Jones.
-        January 2020.
-        TAU (Test Automation University).
+    - Build+Deploy+Test with Jenkins 2.0 - Karthik KK.
+      June 2019.
+      Udemy.
 
-    2019: 
+  2018: 
 
-      - CP-SAT - Certified Professional Selenium Automation Testing - Agile Testing Alliance Org. 
-        February 2019.
-        Udemy.
+    - Kubernetes Course from a DevOps guru (Kubernetes + Docker).
+      December 2018.
+      Udemy.
 
-      - Accessibility Features on Android. 
-        February 2019.
-        Udemy.
+    - Selenium WebDriver with C# for Beginners + Live Testing Site - Tod Vachev.
+      December 2018.
+      Udemy. 
 
-      - Jenkins Introduction for Developer - Tan Pham.
-        February 2019.
-        Udemy.
+    - Learn DevOps with Jenkins All in One Guide - Eduonix Learning Solutions.
+      December 2018.
+      Udemy.
 
-      - CICD (DevOPs Tools) for Automation Testers (Selenium) - Automation Talks.
-        February 2019.
-        Udemy.
+    - Software Testing.
+      December 2018.
+      Udemy. 
 
-      - Making Chatbot & Voice Apps (with Dialogflow v1) - M.Inzamam Malik.
-        February 2019.
-        Udemy. 
+    - Learn Manual Testing:basics for beginners - Naveen Kumar A.
+      December 2018.
+      Udemy.
 
-      - Automation Testing With HP UFT 14.00 Latest Version - Pavan Lalwani.
-        April 2019.
-        Udemy. 
+  2017:
 
-      - Everything for Software Tester - Testing World.
-        April 2019.
-        Udemy. 
+    - Automated Business Readable Web Tests with Selenium and SpecFlow. 
+      January 2017.
+      Pluralsight.
 
-      - Software Testing By Innovation Techniques - Ganesh Sahai.
-        May 2019.
-        Udemy. 
+    - Automated Web Testing with Selenium. 4h. 
+      February 2017.
+      Pluralsight.
 
-      - Build+Deploy+Test with Jenkins 2.0 - Karthik KK.
-        June 2019.
-        Udemy.
-
-    2018: 
-
-      - Kubernetes Course from a DevOps guru (Kubernetes + Docker).
-        December 2018.
-        Udemy.
-
-      - Selenium WebDriver with C# for Beginners + Live Testing Site - Tod Vachev.
-        December 2018.
-        Udemy. 
-
-      - Learn DevOps with Jenkins All in One Guide - Eduonix Learning Solutions.
-        December 2018.
-        Udemy.
-
-      - Software Testing.
-        December 2018.
-        Udemy. 
-
-      - Learn Manual Testing:basics for beginners - Naveen Kumar A.
-        December 2018.
-        Udemy.
-
-    2017:
-
-      - Automated Business Readable Web Tests with Selenium and SpecFlow. 
-        January 2017.
-        Pluralsight.
-
-      - Automated Web Testing with Selenium. 4h. 
-        February 2017.
-        Pluralsight.
-
-      - Docker Deep Dive. 
-        February 2017.
-        Pluralsight.
+    - Docker Deep Dive. 
+      February 2017.
+      Pluralsight.
 
 # Footer
 footer_show_references: false
@@ -222,4 +222,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
