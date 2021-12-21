@@ -10,13 +10,13 @@
 
     **Main responsibilities:** QA project management and leadership: define strategy on the quality bases for the company, estimation and planning. Design and creation of automated tests: E2E and API testing using Cypress. Manage the team: currently 6 people. 
 
-    **Technologies:** GitHub, Testrail, TypeScript, Javascript, Cypress, React Test Library, Jenkins, K8, Lens.
+    **Technologies:** GitHub, TestRail, TypeScript, Javascript, Cypress, React Test Library, Jenkins, K8, Lens.
 
 - layout: left
   company: YouCanBook.Me
   link: https://youcanbook.me/
   job_title: Remote. QA Automation Engineer
-  dates: April 2019 - Decemnber 2020.
+  dates: April 2019 - December 2020.
   quote: >
     Tiny Company that does Big Things
   description: |
@@ -24,7 +24,7 @@
 
     **Main responsibilities:** QA project management and leadership: define strategy on the quality bases for the company, estimation and planning. Design and creation of automated tests: E2E and API testing using Selenium and Cypress.
 
-    **Technologies:** Jira, Testrail, Java, Javascript, Cypress, Selenium, Maven, React Test Library, TestNG, Junit, Postman, CodeBuild, CodePipeline, Terraform.
+    **Technologies:** Jira, TestRail, Java, Javascript, Cypress, Selenium, Maven, React Test Library, TestNG, Junit, Postman, CodeBuild, CodePipeline, Terraform.
 
 - layout: left
   company: SDOS
@@ -38,7 +38,7 @@
 
     **Main responsibilities:** QA Team management and leadership: currently 7 people, estimation and planning, design and creation of the Selenium and Appium Core for SDOS, Quality Lead, creation, development and maintenance of the CD/CI Structure for Android and QA using pipelines along with Jenkins. 
 
-    **Technologies:** Redmine, Jira, Testrail, Jira, Java, Drupal, Android Development, iOS development, Jenkins, Sonar, Artifactory / Nexus, Selenium, Appium, TestNG, JUnit, Jmeter, MobSF, Docker, Kubernetes, Wiremock, Continuous Integration, Continuous Deployment, Declarative Pipelines, Jenkinsfile
+    **Technologies:** RedMine, Jira, TestRail, Jira, Java, Drupal, Android Development, iOS development, Jenkins, Sonar, Artifactory / Nexus, Selenium, Appium, TestNG, JUnit, Jmeter, MobSF, Docker, Kubernetes, Wiremock, Continuous Integration, Continuous Deployment, Declarative Pipelines, Jenkinsfile
 
 - layout: left
   company: Ontech Advanced Technology
@@ -46,7 +46,7 @@
   job_title: Senior QA Engineer
   dates: February 2017 – June 2017
   description: |
-    Wardiam Pro Project. The function performed are: Design of Functional Test for the Alarm system Wardiam Pro on TestLink and Redmine,
+    Wardiam Pro Project. The function performed are: Design of Functional Test for the Alarm system Wardiam Pro on TestLink and RedMine,
     Manual Test execution of software, hardware and firmware test on the following Wardiam Pro devices: Wardiam Center, Wardiam Sensor, Wardiam Camera, Wardiam Hooter and Wardiam Tag on Testlink and Redmine.
     Design and execution of functional testing for other I+D project developed with the Controlled Magnetic Fields (CMF) technology. Detection, report and tracking of issues: software, hardware or firmware using Redmine.
     Firmware load on the devices using Microchip. Bug fixing on logs.
@@ -60,7 +60,7 @@
     izi.TRAVEL project at Emergya. The function performed are: Creation, development and maintenance of the Manual Test Plan on TestRail, creation, development and maintenance of the Automation Test Plan on TestRail. 
     Creation, development and maintenance of the Responsive Manual Test Plan on TestRail. 
     Manual Test execution of Regression Test Plan with TestRail. 
-    Automation test development in Java using Selenium Webdriver, Jenkins, TestNG, Maven. 
+    Automation test development in Java using Selenium WebDriver, Jenkins, TestNG, Maven. 
     Running Automated test on remote using SauceLabs. 
     Detection, report and tracking of issues using Jira. 
     Reviewing and document results, and reporting incidents to the development team to ensure Software Quality. 
@@ -92,4 +92,4 @@
     The functions performed were: Develop automated test Java (Selenium WebDriver) with access to Oracle database. 
     Implement process using the Jenkins continuous integration tool for automatic deployment of applications in different environments. 
     Reviewing and document results, and reporting incidents to the development team to ensure software quality. 
-    Tools and technologies used: Java, WebDriver (Selenium), JUnit, TestNG, Testlink, Jenkins.
+    Tools and technologies used: Java, WebDriver (Selenium), JUnit, TestNG, TestLink, Jenkins.
