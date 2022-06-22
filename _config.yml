@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
 
   Few things about me:
-
+    - Cypress Ambassador :evergreen_tree:
     - ISTQB® Foundation Level (CTFL) certification.
     - Significant QA Engineer and Automation experience (Selenium Webdriver, Appium, Cypress).
     - Experience in Manual and Automated Testing for Software Quality Assurance. 
@@ -76,11 +76,21 @@ content:
       Automatización de Pruebas: República Web #208 with Manuel Franco - June 2022
       - [https://www.youtube.com/watch?v=BEN2t_DXEB4](https://www.youtube.com/watch?v=BEN2t_DXEB4)
 
+      cypress-testrail-all-status plugin on NPM for publishing your Cypress Tests Results on TestRail. 
+      - [https://www.npmjs.com/package/cypress-testrail-all-status](https://www.npmjs.com/package/cypress-testrail-all-status)
+
       - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
       Courses over the years: 
 
       2022:
+
+      - Cypress Ambassador 
+        June 2022.
+
+      - Introducción a Figma y diseño de interfaces - Carlos Andres Orozco Palacio
+        June 2022. 
+        Código Facilito.
 
       - How to Manage a Remote Team by the GitLab team.
         May 2022.
