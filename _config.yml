@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Visit my blog about Quality Assurance and Automation Testing: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
 
-projects_content:
+content:
   # Projects Section
   - title: Projects Section
   - layout: left
@@ -109,7 +109,8 @@ projects_content:
 
       - SonarQube included: In order to maintain the quality of your code and your project, SonarQube is included on this repository, also the instruction to run SonarQube on Docker easily.
 
-experience_content:
+      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
   # Experience Section
   - title: Experience Section
   - layout: left
@@ -208,7 +209,8 @@ experience_content:
       Reviewing and document results, and reporting incidents to the development team to ensure software quality. 
       Tools and technologies used: Java, WebDriver (Selenium), JUnit, TestNG, TestLink, Jenkins.
 
-education_content:
+      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
   # Education Section
   - title: Education Section
   - layout: top-middle
@@ -248,7 +250,6 @@ education_content:
     dates: 20 hours. May 2018.
     qualification: Bitnami
 
-content:
   # More Section
   - title: More Information
     layout: text
