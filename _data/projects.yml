@@ -1,59 +1,62 @@
 - layout: left
+  name: Cypress Component Testing
+  link: https://github.com/estefafdez/cypress-component
+  description: |
+    Cypress Component Demo with a Counter React component.
+    Genially: https://view.genial.ly/64536a9a3140d6001274a16a
+    Video: https://www.youtube.com/watch?v=OK8i2ExZl-o
+
+- layout: left
   name: Una QA En Apuros (Blog)
   link: https://unaqaenapuros.wordpress.com/
-  description: | 
+  description: |
     Creation of the blog “Una QA en Apuros” on Wordpress where I published articles related with the software quality focus on the automation testing open source tools such as Appium, Selenium or Cypress. 
-    Also you can find articles about CI/CD tools such as Jenkins. 
+    Also you can find articles about CI/CD tools such as Jenkins.
 
 - layout: left
   name: Appium Native Java Example
   link: https://github.com/estefafdez/appium-native-java-example
-  description: | 
+  description: |
     Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
 
 - layout: left
   name: cypress-template
   link: https://github.com/estefafdez/cypress-template
-  description: | 
-    Example of a real project based in Cypress with Page Object Model Implemented, API Tests, Github Actions and SonarCloud included. 
+  description: |
+    Example of a real project based in Cypress with Page Object Model Implemented, API Tests, Github Actions and SonarCloud included.
 
 - layout: left
   name: selenium-template
   link: https://github.com/estefafdez/selenium-template
-  description: | 
-    Example of a real project based in Selenium with Page Object Model Implemented and Travis CI. 
+  description: |
+    Example of a real project based in Selenium with Page Object Model Implemented and Travis CI.
 
 - layout: left
   name: Selenium Pipeline on Jenkins
   link: https://github.com/estefafdez/selenium-pipeline
-  description: | 
-    Run your Selenium Test easily using this declarative pipeline on Jenkins. 
-  
+  description: |
+    Run your Selenium Test easily using this declarative pipeline on Jenkins.
+
 - layout: left
   name: Barista Android App
   link: https://github.com/estefafdez/AndroidBaristaProject
-  description: | 
+  description: |
     A simple Android App along with Barista for Testing Purposes.
 
 - layout: left
   name: iOS Test App
   link: https://github.com/estefafdez/iOSTestApp
-  description: | 
+  description: |
     A simple iOS App with Swift and Xcode 8 for Testing Purposes.
 
 - layout: left
   name: Selenium Cucumber Project
   link: https://github.com/estefafdez/selenium-cucumber/
-  description: | 
+  description: |
     This project is a Selenium Webdriver 3.0.1 integration with Cucumber on Java and include several features, such as:
-    
+
     - Choose your OS, Browser and Log Level on the POM: On the pom.xml file you can choose between: Several OS: Windows, Mac, Linux, several Browsers: Chrome, Firefox, IE and several log level configuration: All, Debug, Info, Warn, Error, Fatal, Off.
-    
+
     - Step Definition By Action: On this project you can find the following set of predefined steps ordered by action already done for you. The types of actions are: Assertion Steps, Click Steps, Configuration Steps, Input Steps...
-    
+
     - SonarQube included: In order to maintain the quality of your code and your project, SonarQube is included on this repository, also the instruction to run SonarQube on Docker easily.
-
-
-  
-  
-  
