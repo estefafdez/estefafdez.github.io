@@ -21,11 +21,18 @@ linkedin_username: estefafdez
 youtube_username: estefafdez
 medium_username: estefafdez
 
+theme_config:
+  sections:
+    - about
+    - projects
+    - experience
+    - education
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, My name is Estefania and I am a Master in Software Engineering and Technology and Technical Engineering in Computer Management. 
+  Hello, My name is Estefanía and I am a Master in Software Engineering and Technology and Technical Engineering in Computer Management. 
 
   I am a passionate about Software Quality, most of all about <mark>Selenium Webdriver</mark>, 
   <mark>Appium</mark>, <mark>Cypress</mark> or any other tool for Automation Testing.
