@@ -100,3 +100,70 @@
     Implement process using the Jenkins continuous integration tool for automatic deployment of applications in different environments. 
     Reviewing and document results, and reporting incidents to the development team to ensure software quality. 
     Tools and technologies used: Java, WebDriver (Selenium), JUnit, TestNG, TestLink, Jenkins.
+
+- layout: left
+  company: More Information
+  job_title: Live Training Sessions & Courses
+  dates: Various
+  description: |
+    **Some videos of my live training sessions:**
+
+    - [Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+    - [Cómo hacer test automáticos en aplicaciones iOS con Appium - Open South Code 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
+    - [Mujeres en Testing - Northem Quality - October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+    - [Programando se entienden las máquinas - Podcast Aula Software Libre December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+    - [Automatización de Pruebas: República Web #208 with Manuel Franco - June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
+    - [¿Qué es el rol de QA tester en Programación? | #laFunción 8x17 - Codely February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
+    - [All-in Pruebas Automatizadas (live and online meetup) | Sngular - June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
+    - [Scaling Your Testing Strategy (live and online workshop) | Cypress Team and Ambassadors - July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
+
+    ---
+    **Courses over the years:**
+
+    *2023:*
+    - ChatGPT Prompt Engineering for Developers. May 2023. Deep Learning AI.
+
+    *2022:*
+    - How to Manage a Remote Team by the GitLab team. May 2022. Coursera.
+
+    *2021:*
+    - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones. January 2021. TAU (Test Automation University).
+    - Web Element Locator Strategies - Andrew Knight. January 2021. TAU (Test Automation University).
+    - Cucumber with Java - Giridhar Rajkumar. January 2021. TAU (Test Automation University).
+
+    *2020:*
+    - Introduction to TestNG - Rex Jones II. January 2020. TAU (Test Automation University).
+    - Introduction to Cypress - Gil Tayar. February 2020. TAU (Test Automation University).
+    - Test Automation- quick start - Rostyslav Apostol. April 2020. Udemy.
+    - Web Application Performance Testing - Mentors Native. April 2020. Udemy.
+    - Test Driven Development con Java y Junit5 - Alejandro Polo Rangel. April 2020. Udemy.
+    - Selenium WebDriver with Java - Angy Jones. September 2020. TAU (Test Automation University).
+    - IntelliJ for Test Automation Engineers - Corina Pip. September 2020. TAU (Test Automation University).
+    - Java Programming - Angy Jones. September 2020. TAU (Test Automation University).
+    - Modern Functional Test Automation Through Visual AI - Raja Rao DV. September 2020. TAU (Test Automation University).
+    - Automated Visual Testing with Appium - Jonathan Lipps. September 2020. TAU (Test Automation University).
+    - Source Control for Test Automation with Git - Simon Berner. September 2020. TAU (Test Automation University).
+    - Setting a Foundation for Successful Test Automation - Angy Jones. January 2020. TAU (Test Automation University).
+
+    *2019:*
+    - CP-SAT - Certified Professional Selenium Automation Testing - Agile Testing Alliance Org. February 2019. Udemy.
+    - Accessibility Features on Android. February 2019. Udemy.
+    - Jenkins Introduction for Developer - Tan Pham. February 2019. Udemy.
+    - CICD (DevOPs Tools) for Automation Testers (Selenium) - Automation Talks. February 2019. Udemy.
+    - Making Chatbot & Voice Apps (with Dialogflow v1) - M.Inzamam Malik. February 2019. Udemy.
+    - Automation Testing With HP UFT 14.00 Latest Version - Pavan Lalwani. April 2019. Udemy.
+    - Everything for Software Tester - Testing World. April 2019. Udemy.
+    - Software Testing By Innovation Techniques - Ganesh Sahai. May 2019. Udemy.
+    - Build+Deploy+Test with Jenkins 2.0 - Karthik KK. June 2019. Udemy.
+
+    *2018:*
+    - Kubernetes Course from a DevOps guru (Kubernetes + Docker). December 2018. Udemy.
+    - Selenium WebDriver with C# for Beginners + Live Testing Site - Tod Vachev. December 2018. Udemy.
+    - Learn DevOps with Jenkins All in One Guide - Eduonix Learning Solutions. December 2018. Udemy.
+    - Software Testing. December 2018. Udemy.
+    - Learn Manual Testing:basics for beginners - Naveen Kumar A. December 2018. Udemy.
+
+    *2017:*
+    - Automated Business Readable Web Tests with Selenium and SpecFlow. January 2017. Pluralsight.
+    - Automated Web Testing with Selenium. 4h. February 2017. Pluralsight.
+    - Docker Deep Dive. February 2017. Pluralsight.
