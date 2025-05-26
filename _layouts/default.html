@@ -1,1 +1,6 @@
-{% include custom_content.html %} {{ content }}
+---
+# Extiende el layout del tema remoto y añade el include personalizado
+layout: default
+---
+
+{{ content }} {% include custom_content.html %}
