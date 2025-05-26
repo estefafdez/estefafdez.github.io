@@ -79,6 +79,7 @@ content:
       - title: Advanced Kubernetes Training
         dates: 20 hours. May 2018.
         description: Bitnami
+
   - title: Experience
     layout: list
     items:
@@ -236,6 +237,7 @@ content:
           - Automated Business Readable Web Tests with Selenium and SpecFlow. January 2017. Pluralsight.
           - Automated Web Testing with Selenium. 4h. February 2017. Pluralsight.
           - Docker Deep Dive. February 2017. Pluralsight.
+
   - title: Projects
     layout: list
     items:
