@@ -1,16 +1,18 @@
 - layout: left
   company: Genially
   link: https://genial.ly/
-  job_title: Remote. QA Engineer Manager
+  job_title: Remote. Head of QA.
   dates: January 2021 - Present
   quote: >
     Creating interactive content is WOW!
   description: |
-    Creation and setting up the QA bases on the company. Define the QA strategy. Create the CI/CD model using Docker, K8 and Jenkins.
+    As Head of QA at Genially, I was responsible for defining and leading the overall QA strategy within the Technology department, focusing on both manual and automated testing to ensure the reliability, usability, and security of our interactive content platform.
 
-    **Main responsibilities:** QA project management and leadership: define strategy on the quality bases for the company, estimation and planning. Design and creation of automated tests: E2E and API testing using Cypress. Manage the team: currently 6 people. 
+    I managed and mentored a team of QA Engineers, planning and coordinating their tasks across multiple squads, and closely aligning QA efforts with development, product, and business goals. I reported directly to the CTO, ensuring strategic alignment and visibility of quality initiatives at the leadership level. My responsibilities included designing and maintaining detailed test plans and cases, evaluating and optimising our automation stack—including Cypress Dashboard, CI/CD pipelines, reporting, and alerting tools—and promoting a strong culture of quality across the company. 
 
-    **Technologies:** GitHub, TestRail, TypeScript, Javascript, Cypress, React Test Library, Jenkins, K8, Lens.
+    I also established and monitored QA metrics to continuously improve testing processes and support Genially’s international growth.
+
+    **Technologies:** TestRail, Node, JavaScript, TypeScript, Cypress, Groovy, Python, K8S, Grafana, React Testing Library, Jenkins, Jenkinsfiles, Declarative Pipelines.
 
 - layout: left
   company: YouCanBook.Me
