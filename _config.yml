@@ -18,17 +18,9 @@ linkedin_username: estefafdez
 youtube_username: estefafdez
 medium_username: estefafdez
 
-# Theme config
-# (Classic method: do NOT use 'content:' or 'version: 2')
-theme_config:
-  sections:
-    - about
-    - experience
-    - education
-    - projects
-
+# About section
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi! I'm Estefanía — a QA Automation Engineer with 10+ years of experience and a Master's in Software Engineering and Technology.
 
   I'm deeply passionate about Software Quality and test automation. Over the years I've built QA departments from the ground up, defined quality strategies, and led teams across international and multicultural environments. Currently I'm part of the QA team at <mark>Kaleidos</mark>, contributing to <mark>Penpot</mark> — an open-source design platform — which perfectly combines my love for quality and open source.
@@ -50,6 +42,304 @@ about_content: | # this will include new lines to allow paragraphs
   Prefer a quick call? [Book a slot here](https://app.timetime.in/rp/estefafdez)
 
   Also check out my QA & Automation blog: [Una QA en Apuros](https://unaqaenapuros.wordpress.com/)
+
+# Version 2 - controls section order
+version: 2
+
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Kaleidos (Penpot)
+        link: https://penpot.app/
+        link_text: penpot.app
+        sub_title: Remote · QA Automation Engineer
+        caption: July 2025 - Present
+        quote: >
+          The open-source design tool for design and code collaboration.
+        description: |
+          Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+
+          **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure.
+
+      - layout: left
+        title: Genially
+        link: https://genial.ly/
+        link_text: genial.ly
+        sub_title: Remote · Head of QA
+        caption: January 2020 - May 2025
+        quote: >
+          Creating interactive content is WOW!
+        description: |
+          Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
+
+          - Built and mentored a team of QA Engineers, coordinating their work across multiple product squads.
+          - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting.
+          - Defined QA metrics and KPIs to track quality trends and support data-driven decision making.
+          - Drove a culture of quality across the company, aligning QA with product, engineering and business goals.
+          - Supported Genially's international growth, ensuring quality standards scaled with the product.
+
+          **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail.
+
+      - layout: left
+        title: YouCanBook.Me
+        link: https://youcanbook.me/
+        link_text: youcanbook.me
+        sub_title: Remote · QA Automation Engineer
+        caption: April 2019 - December 2020
+        quote: >
+          Tiny Company that does Big Things
+        description: |
+          Joined a small, fully remote team to build the QA practice from scratch. Defined the company's QA strategy, established processes, and created the CI/CD infrastructure using Docker, Terraform and AWS CodeBuild — laying the foundations for sustainable, automated quality assurance.
+
+          - Designed and implemented E2E and API automated test suites.
+          - Set up the full CI/CD pipeline for test execution from the ground up.
+
+          **Technologies:** Cypress, Selenium, JavaScript, Java, React Testing Library, TestNG, JUnit, Maven, Postman, AWS CodeBuild, CodePipeline, Terraform, Jira, TestRail.
+
+      - layout: left
+        title: SDOS
+        link: https://sdos.es/
+        link_text: sdos.es
+        sub_title: Head of QA / DevOps
+        caption: June 2017 - April 2019
+        quote: >
+          #somosEquipo
+        description: |
+          Created the QA Department from scratch at SDOS, a software consultancy working with major Spanish brands. Defined the QA strategy, built and led a team of 7, and architected the CI/CD model using Jenkins and Docker across multiple simultaneous client projects.
+
+          - Designed and built the Selenium and Appium automation core used across all SDOS projects.
+          - Established the CI/CD structure for Android and QA pipelines using Jenkins Declarative Pipelines.
+          - Led QA on featured projects for El Corte Inglés, Inditex, Prisa Group and CCMA.
+
+          **Technologies:** Selenium, Appium, Java, Jenkins, Docker, Kubernetes, Sonar, Artifactory/Nexus, TestNG, JUnit, JMeter, MobSF, Wiremock, Jenkinsfile, Jira, TestRail.
+
+      - layout: left
+        title: Ontech Advanced Technology
+        link: https://www.ontech.es/
+        link_text: ontech.es
+        sub_title: Senior QA Engineer
+        caption: February 2017 - June 2017
+        description: |
+          Worked on the <mark>Wardiam Pro</mark> project, an IoT alarm system. Designed and executed functional tests for software, hardware and firmware across the full range of Wardiam devices (Center, Sensor, Camera, Hooter and Tag). Also contributed to I+D projects based on Controlled Magnetic Fields (CMF) technology.
+
+          **Technologies:** TestLink, Redmine, Microchip.
+
+      - layout: left
+        title: Emergya Ingeniería S.L.
+        link: https://www.emergya.com/es
+        link_text: emergya.com
+        sub_title: Senior QA Engineer / QA Lead
+        caption: June 2016 - January 2017
+        description: |
+          Led QA efforts on the <mark>izi.TRAVEL</mark> project. Created and maintained manual, automation and responsive test plans. Developed automated tests in Java using Selenium WebDriver, with remote execution via SauceLabs. Implemented Continuous Integration with Jenkins and Docker, and Performance Testing with JMeter.
+
+          **Technologies:** Selenium WebDriver, Java, Jenkins, Maven, TestNG, SauceLabs, JMeter, Docker, TestRail, Jira.
+
+      - layout: left
+        title: Atos Global
+        link: https://atos.net/en/
+        link_text: atos.net
+        sub_title: Junior QA Engineer
+        caption: February 2015 - June 2016
+        description: |
+          Worked on <mark>BlueKiwi</mark>, an Enterprise Social Networking platform. Developed automated regression tests in Java using Selenium WebDriver, set up CI deployments with Jenkins, and maintained test plans and issue tracking in Jira. Agile methodology: Scrum.
+
+          **Technologies:** Selenium WebDriver, Java, Jenkins, Jira.
+
+      - layout: left
+        title: Admiral Group Ltd (Balumba y Qualitas Auto)
+        link: https://admiralgroup.co.uk/
+        link_text: admiralgroup.co.uk
+        sub_title: QA Assistant
+        caption: June 2014 - December 2014
+        description: |
+          First QA role — contributed to the Motorcycles project, a new line of business for Admiral Spain. Developed automated tests in Java using Selenium WebDriver with Oracle database access. Set up CI deployments using Jenkins and documented test results for the development team.
+
+          **Technologies:** Selenium WebDriver, Java, JUnit, TestNG, TestLink, Jenkins.
+
+      - layout: left
+        title: Community & Talks
+        sub_title: Speaker · Podcast Guest · Workshop Facilitator
+        caption: 2019 - Present
+        description: |
+          Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
+
+          - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
+          - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
+          - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
+          - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
+          - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+          - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+          - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+          - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
+
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title: Master in Software Engineering and Technology
+        sub_title: University of Seville
+        caption: 2013 - 2014
+        description: |
+          Postgraduate programme focused on advanced software engineering practices, software architecture, project management and quality assurance methodologies.
+
+      - layout: top-middle
+        title: Technical Engineer of Computer Science Management
+        sub_title: University of Córdoba
+        caption: 2005 - 2012
+        description: |
+          Degree covering software development, systems administration, databases, networks and computer management. Included an Erasmus exchange year in the Czech Republic.
+
+      - layout: top-middle
+        title: Erasmus Scholarship
+        sub_title: VŠB – Technical University of Ostrava, Czech Republic
+        caption: 2011 - 2012
+        description: |
+          Exchange programme at the Faculty of Electrical Engineering and Computer Science. An invaluable experience that developed my adaptability, independence and cross-cultural communication skills.
+
+      - layout: top-middle
+        title: ISTQB® Foundation Level (CTFL)
+        sub_title: ISTQB – International Software Testing Qualifications Board
+        caption: July 2018
+        description: |
+          International certification in software testing fundamentals, covering test design techniques, test management, and defect lifecycle.
+
+      - layout: top-middle
+        title: Cambridge English First (FCE)
+        sub_title: Cambridge University
+        caption: January 2014
+        description: |
+          B2 level certification in English, demonstrating strong reading, writing, listening and speaking skills for professional and academic contexts.
+
+      - layout: top-middle
+        title: Scrum Master Certification
+        sub_title: Scrum Manager — ID 15465
+        caption: November 2017
+        description: |
+          Certified in Agile project management methodologies with a focus on Scrum frameworks and team collaboration.
+
+      - layout: top-middle
+        title: Advanced Kubernetes Training
+        sub_title: Bitnami — 20 hours
+        caption: May 2018
+        description: |
+          Hands-on training covering container orchestration, cluster management, deployments and scaling with Kubernetes.
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Penpot QA (Open Source)
+        link: https://github.com/penpot/penpotqa
+        link_text: github.com/penpot/penpotqa
+        description: |
+          Active contributor to the QA automation suite of <mark>Penpot</mark>, the leading open-source design and collaboration platform by Kaleidos. Contributing E2E tests with <mark>Playwright</mark> and TypeScript to help ensure reliability for a tool used by thousands of designers and developers worldwide.
+
+          **Technologies:** Playwright, TypeScript, GitHub Actions.
+
+      - layout: left
+        title: Playwright Template
+        link: https://github.com/estefafdez/playwright-template
+        link_text: github.com/estefafdez/playwright-template
+        description: |
+          Production-ready <mark>Playwright</mark> template with everything you need to start automating from day one. Designed as a solid, reusable foundation for modern E2E automation projects.
+
+          - Page Object Model pattern
+          - API testing included
+          - GitHub Actions CI/CD pipeline
+          - Qase integration for test management
+          - SonarCloud for code quality
+
+          **Technologies:** Playwright, TypeScript, Node, GitHub Actions, Qase, SonarCloud.
+
+      - layout: left
+        title: Cypress Template
+        link: https://github.com/estefafdez/cypress-template
+        link_text: github.com/estefafdez/cypress-template
+        description: |
+          Production-ready <mark>Cypress</mark> template for E2E and API testing, structured for real-world projects.
+
+          - Page Object Model pattern
+          - API testing included
+          - GitHub Actions CI/CD pipeline
+          - Qase integration for test management
+          - SonarCloud for code quality
+
+          **Technologies:** Cypress, TypeScript, Node, GitHub Actions, Qase, SonarCloud.
+
+      - layout: left
+        title: Cypress Component Testing
+        link: https://github.com/estefafdez/cypress-component
+        link_text: github.com/estefafdez/cypress-component
+        description: |
+          Demo project showcasing <mark>Cypress Component Testing</mark> with a Counter React component — a practical example of testing UI components in isolation without needing a full browser environment.
+
+          [Watch the talk](https://www.youtube.com/watch?v=OK8i2ExZl-o) · [View the Genially](https://view.genial.ly/64536a9a3140d6001274a16a)
+
+          **Technologies:** Cypress, React, JavaScript.
+
+      - layout: left
+        title: Una QA En Apuros (Blog)
+        link: https://unaqaenapuros.wordpress.com/
+        link_text: unaqaenapuros.wordpress.com
+        description: |
+          Personal blog about Software Quality and test automation, publishing articles since 2017. Covers automation tools like <mark>Playwright</mark>, Selenium and Appium, CI/CD practices with Jenkins and GitHub Actions, and quality culture in software teams.
+
+      - layout: left
+        title: Appium Native Java Example
+        link: https://github.com/estefafdez/appium-native-java-example
+        link_text: github.com/estefafdez/appium-native-java-example
+        description: |
+          Maven project for running automated tests on iOS and Android using <mark>Appium</mark>. A practical starting point for mobile automation that works across both platforms with minimal setup.
+
+          **Technologies:** Appium, Java, Maven, iOS, Android.
+
+      - layout: left
+        title: Selenium Template
+        link: https://github.com/estefafdez/selenium-template
+        link_text: github.com/estefafdez/selenium-template
+        description: |
+          Clean <mark>Selenium WebDriver</mark> project template with Page Object Model and CI integration — a reference structure for Java-based web automation projects.
+
+          **Technologies:** Selenium WebDriver, Java, Maven, Travis CI.
+
+      - layout: left
+        title: Selenium Pipeline on Jenkins
+        link: https://github.com/estefafdez/selenium-pipeline
+        link_text: github.com/estefafdez/selenium-pipeline
+        description: |
+          Declarative Jenkins pipeline to run <mark>Selenium</mark> tests automatically — a plug-and-play CI setup for Java automation projects.
+
+          **Technologies:** Selenium, Jenkins, Declarative Pipelines, Groovy.
+
+      - layout: left
+        title: Selenium Cucumber Project
+        link: https://github.com/estefafdez/selenium-cucumber/
+        link_text: github.com/estefafdez/selenium-cucumber
+        description: |
+          <mark>Selenium WebDriver</mark> integrated with <mark>Cucumber</mark> for BDD-style test automation in Java. Includes a rich set of predefined steps, multi-browser and multi-OS support via POM configuration, and SonarQube for code quality.
+
+          **Technologies:** Selenium WebDriver, Cucumber, Java, TestNG, JUnit, Maven, SonarQube, Docker.
+
+      - layout: left
+        title: Barista Android App
+        link: https://github.com/estefafdez/AndroidBaristaProject
+        link_text: github.com/estefafdez/AndroidBaristaProject
+        description: |
+          Android application built for testing purposes, using <mark>Barista</mark> — a wrapper over Espresso that makes Android UI testing simpler and more readable.
+
+          **Technologies:** Android, Java, Barista, Espresso.
+
+      - layout: left
+        title: iOS Test App
+        link: https://github.com/estefafdez/iOSTestApp
+        link_text: github.com/estefafdez/iOSTestApp
+        description: |
+          Simple iOS application built with Swift and Xcode, designed as a target app for mobile testing practice with Appium and XCUITest.
+
+          **Technologies:** Swift, Xcode, iOS.
 
 # Footer
 footer_show_references: false
