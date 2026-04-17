@@ -1,4 +1,10 @@
 - layout: left
+  name: Playwright Template
+  link: https://github.com/estefafdez/playwright-template
+  description: |
+    A ready Playwright template with TypeScript, Page Object Model, API Tests, GitHub Actions CI/CD, Qase integration and SonarCloud for code quality. A great starting point for any modern E2E automation project.
+
+- layout: left
   name: Cypress Component Testing
   link: https://github.com/estefafdez/cypress-component
   description: |
