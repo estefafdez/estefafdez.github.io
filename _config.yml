@@ -18,6 +18,15 @@ linkedin_username: estefafdez
 youtube_username: estefafdez
 medium_username: estefafdez
 
+# Additional links
+additional_links:
+  - title: Una QA en Apuros (Blog)
+    icon: fas fa-blog
+    url: https://unaqaenapuros.wordpress.com/
+  - title: Book a call
+    icon: far fa-calendar
+    url: https://app.timetime.in/rp/estefafdez
+
 # About section
 about_profile_image: images/profile.jpg
 about_content: |
@@ -174,6 +183,18 @@ content:
           - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
           - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
           - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
+
+  - title: Skills
+    layout: text
+    content: |
+      **Test Automation:** Playwright, Cypress, Selenium WebDriver, Appium, XCUITest
+      **Languages:** TypeScript, JavaScript, Java, Python, Groovy
+      **API & Performance:** Postman, REST Assured, JMeter
+      **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS CodeBuild
+      **Test Management:** Qase, TestRail, Jira
+      **Code Quality:** SonarCloud, SonarQube
+      **Monitoring:** Grafana
+      **Methodologies:** Agile, Scrum, TDD, BDD (Cucumber)
 
   - title: Education
     layout: list
