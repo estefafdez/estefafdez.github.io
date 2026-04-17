@@ -23,8 +23,8 @@ medium_username: estefafdez
 theme_config:
   sections:
     - about
-    - education
     - experience
+    - education
     - projects
 
 about_profile_image: images/profile.jpg
