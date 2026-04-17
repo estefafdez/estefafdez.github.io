@@ -1,4 +1,10 @@
 - layout: left
+  name: Penpot QA (Open Source)
+  link: https://github.com/penpot/penpotqa
+  description: |
+    Contributing to the QA automation suite of <mark>Penpot</mark>, the open-source design and collaboration platform by Kaleidos. Working on improving product quality through Playwright-based E2E tests, helping ensure reliability for a tool used by thousands of designers and developers worldwide.
+
+- layout: left
   name: Playwright Template
   link: https://github.com/estefafdez/playwright-template
   description: |
