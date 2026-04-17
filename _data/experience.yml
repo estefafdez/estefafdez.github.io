@@ -1,169 +1,116 @@
 - layout: left
+  company: Kaleidos (Penpot)
+  link: https://penpot.app/
+  job_title: Remote · QA Automation Engineer
+  dates: July 2025 - Present
+  quote: >
+    The open-source design tool for design and code collaboration.
+  description: |
+    Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+
+    **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure.
+
+- layout: left
   company: Genially
   link: https://genial.ly/
-  job_title: Remote. Head of QA.
-  dates: January 2021 - Present
+  job_title: Remote · Head of QA
+  dates: January 2020 - May 2025
   quote: >
     Creating interactive content is WOW!
   description: |
-    As Head of QA at Genially, I was responsible for defining and leading the overall QA strategy within the Technology department, focusing on both manual and automated testing to ensure the reliability, usability, and security of our interactive content platform.
+    Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
 
-    - Managed and mentored a team of QA Engineers, planning and coordinating their tasks across multiple squads.
-    - Aligned QA efforts closely with development, product, and business goals.
-    - Reported directly to the CTO, ensuring strategic alignment and visibility of quality initiatives at the leadership level.
-    - Designed and maintained detailed test plans and cases.
-    - Evaluated and optimized the automation stack, including Cypress Dashboard, CI/CD pipelines, reporting, and alerting tools.
-    - Promoted a strong culture of quality across the company.
+    - Built and mentored a team of QA Engineers, coordinating their work across multiple product squads.
+    - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting.
+    - Defined QA metrics and KPIs to track quality trends and support data-driven decision making.
+    - Drove a culture of quality across the company, aligning QA with product, engineering and business goals.
+    - Supported Genially's international growth, ensuring quality standards scaled with the product.
 
-    I also established and monitored QA metrics to continuously improve testing processes and support Genially’s international growth.
-
-    **Technologies:** TestRail, Node, JavaScript, TypeScript, Cypress, Groovy, Python, K8S, Grafana, React Testing Library, Jenkins, Jenkinsfiles, Declarative Pipelines.
+    **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail.
 
 - layout: left
   company: YouCanBook.Me
   link: https://youcanbook.me/
-  job_title: Remote. QA Automation Engineer
-  dates: April 2019 - December 2020.
+  job_title: Remote · QA Automation Engineer
+  dates: April 2019 - December 2020
   quote: >
     Tiny Company that does Big Things
   description: |
-    Working on a small team to do great things remotely. Creation and setting up the QA bases on the company. Define the QA strategy. Create the CI/CD model using Docker, Terraform and AWS (Code Build).
+    Joined a small, fully remote team to build the QA practice from scratch. Defined the company's QA strategy, established processes, and created the CI/CD infrastructure using Docker, Terraform and AWS CodeBuild — laying the foundations for sustainable, automated quality assurance.
 
-    **Main responsibilities:** QA project management and leadership: define strategy on the quality bases for the company, estimation and planning. Design and creation of automated tests: E2E and API testing using Selenium and Cypress.
+    - Designed and implemented E2E and API automated test suites.
+    - Set up the full CI/CD pipeline for test execution from the ground up.
 
-    **Technologies:** Jira, TestRail, Java, Javascript, Cypress, Selenium, Maven, React Test Library, TestNG, Junit, Postman, CodeBuild, CodePipeline, Terraform.
+    **Technologies:** Cypress, Selenium, JavaScript, Java, React Testing Library, TestNG, JUnit, Maven, Postman, AWS CodeBuild, CodePipeline, Terraform, Jira, TestRail.
 
 - layout: left
   company: SDOS
   link: https://sdos.es/
-  job_title: Head of QA / DevOps.
-  dates: June 2017 – April 2019
+  job_title: Head of QA / DevOps
+  dates: June 2017 - April 2019
   quote: >
     #somosEquipo
   description: |
-    Creation and setting up the QA Department. Define the QA strategy. Create the CI/CD model using Jenkins and Docker. Featured Project: Android app development for the El Corte Ingles, Inditex, and Android/iOS development of Prisa Group and CCMA (Corporación Catalana de Medios Audiovisuales).
+    Created the QA Department from scratch at SDOS, a software consultancy working with major Spanish brands. Defined the QA strategy, built and led a team of 7, and architected the CI/CD model using Jenkins and Docker across multiple simultaneous client projects.
 
-    **Main responsibilities:** QA Team management and leadership: currently 7 people, estimation and planning, design and creation of the Selenium and Appium Core for SDOS, Quality Lead, creation, development and maintenance of the CD/CI Structure for Android and QA using pipelines along with Jenkins. 
+    - Designed and built the Selenium and Appium automation core used across all SDOS projects.
+    - Established the CI/CD structure for Android and QA pipelines using Jenkins Declarative Pipelines.
+    - Led QA on featured projects for El Corte Inglés, Inditex, Prisa Group and CCMA.
 
-    **Technologies:** RedMine, Jira, TestRail, Jira, Java, Drupal, Android Development, iOS development, Jenkins, Sonar, Artifactory / Nexus, Selenium, Appium, TestNG, JUnit, Jmeter, MobSF, Docker, Kubernetes, Wiremock, Continuous Integration, Continuous Deployment, Declarative Pipelines, Jenkinsfile
+    **Technologies:** Selenium, Appium, Java, Jenkins, Docker, Kubernetes, Sonar, Artifactory/Nexus, TestNG, JUnit, JMeter, MobSF, Wiremock, Jenkinsfile, Jira, TestRail.
 
 - layout: left
   company: Ontech Advanced Technology
   link: https://www.ontech.es/
   job_title: Senior QA Engineer
-  dates: February 2017 – June 2017
+  dates: February 2017 - June 2017
   description: |
-    Wardiam Pro Project. The function performed are: Design of Functional Test for the Alarm system Wardiam Pro on TestLink and RedMine,
-    Manual Test execution of software, hardware and firmware test on the following Wardiam Pro devices: Wardiam Center, Wardiam Sensor, Wardiam Camera, Wardiam Hooter and Wardiam Tag on Testlink and Redmine.
-    Design and execution of functional testing for other I+D project developed with the Controlled Magnetic Fields (CMF) technology. Detection, report and tracking of issues: software, hardware or firmware using Redmine.
-    Firmware load on the devices using Microchip. Bug fixing on logs.
+    Worked on the <mark>Wardiam Pro</mark> project, an IoT alarm system. Designed and executed functional tests for software, hardware and firmware across the full range of Wardiam devices (Center, Sensor, Camera, Hooter and Tag). Also contributed to I+D projects based on Controlled Magnetic Fields (CMF) technology.
+
+    **Technologies:** TestLink, Redmine, Microchip.
 
 - layout: left
-  company: Emergya Ingeniería S.L. Drupalera.
+  company: Emergya Ingeniería S.L.
   link: https://www.emergya.com/es
-  job_title: Senior QA Engineer / QA Lead.
-  dates: June 2016 – January 2017
+  job_title: Senior QA Engineer / QA Lead
+  dates: June 2016 - January 2017
   description: |
-    izi.TRAVEL project at Emergya. The function performed are: Creation, development and maintenance of the Manual Test Plan on TestRail, creation, development and maintenance of the Automation Test Plan on TestRail. 
-    Creation, development and maintenance of the Responsive Manual Test Plan on TestRail. 
-    Manual Test execution of Regression Test Plan with TestRail. 
-    Automation test development in Java using Selenium WebDriver, Jenkins, TestNG, Maven. 
-    Running Automated test on remote using SauceLabs. 
-    Detection, report and tracking of issues using Jira. 
-    Reviewing and document results, and reporting incidents to the development team to ensure Software Quality. 
-    Continuous Integration using Jenkins and Docker on Linux. Definition of the scope for the next release along with the Product Owner and the client. 
-    Performance Testing with JMeter and integration with Jenkins. 
-    Agile methodology: Scrum.
+    Led QA efforts on the <mark>izi.TRAVEL</mark> project. Created and maintained manual, automation and responsive test plans. Developed automated tests in Java using Selenium WebDriver, with remote execution via SauceLabs. Implemented Continuous Integration with Jenkins and Docker, and Performance Testing with JMeter.
+
+    **Technologies:** Selenium WebDriver, Java, Jenkins, Maven, TestNG, SauceLabs, JMeter, Docker, TestRail, Jira.
 
 - layout: left
   company: Atos Global
   link: https://atos.net/en/
-  job_title: QA Department. Junior QA Engineer.
-  dates: February 2015- June 2016
+  job_title: Junior QA Engineer
+  dates: February 2015 - June 2016
   description: |
-    BlueKiwi Enterprise Social Networking. 
-    The functions performed are: Develop automated test on Java (using Selenium WebDriver) for the non-regression testing on Bluekiwi. 
-    Implement process using the Jenkins continuous integration tool for automatic deployment of applications in different environments. 
-    Manual test execution of Regression Test Plan with Jira. 
-    Detection, report and tracking of issues using Jira. 
-    Modification and improvement of the Test Plan. Reviewing and document results, and reporting incidents to the development team to ensure Software Quality. 
-    Agile methodology: Scrum.
+    Worked on <mark>BlueKiwi</mark>, an Enterprise Social Networking platform. Developed automated regression tests in Java using Selenium WebDriver, set up CI deployments with Jenkins, and maintained test plans and issue tracking in Jira. Agile methodology: Scrum.
+
+    **Technologies:** Selenium WebDriver, Java, Jenkins, Jira.
 
 - layout: left
   company: Admiral Group Ltd (Balumba y Qualitas Auto)
   link: https://admiralgroup.co.uk/
-  job_title: QA Department. QA Assistant
-  dates: June 2014- December 2014
+  job_title: QA Assistant
+  dates: June 2014 - December 2014
   description: |
-    Motorcycles project as a new line of business in Admiral Spain. 
-    The functions performed were: Develop automated test Java (Selenium WebDriver) with access to Oracle database. 
-    Implement process using the Jenkins continuous integration tool for automatic deployment of applications in different environments. 
-    Reviewing and document results, and reporting incidents to the development team to ensure software quality. 
-    Tools and technologies used: Java, WebDriver (Selenium), JUnit, TestNG, TestLink, Jenkins.
+    First QA role — contributed to the Motorcycles project, a new line of business for Admiral Spain. Developed automated tests in Java using Selenium WebDriver with Oracle database access. Set up CI deployments using Jenkins and documented test results for the development team.
+
+    **Technologies:** Selenium WebDriver, Java, JUnit, TestNG, TestLink, Jenkins.
 
 - layout: left
-  company: More Information
-  job_title: Live Training Sessions & Courses
-  dates: Various
+  company: Community & Talks
+  job_title: Speaker · Podcast Guest · Workshop Facilitator
+  dates: 2019 - Present
   description: |
-    **Some videos of my live training sessions:**
+    Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
 
-    - [Cómo empezar a hacer tus pruebas en iOS con Appium - Estefanía Fernández - Salmorejotech 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
-    - [Cómo hacer test automáticos en aplicaciones iOS con Appium - Open South Code 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
-    - [Mujeres en Testing - Northem Quality - October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
-    - [Programando se entienden las máquinas - Podcast Aula Software Libre December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
-    - [Automatización de Pruebas: República Web #208 with Manuel Franco - June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
-    - [¿Qué es el rol de QA tester en Programación? | #laFunción 8x17 - Codely February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
-    - [All-in Pruebas Automatizadas (live and online meetup) | Sngular - June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
-    - [Scaling Your Testing Strategy (live and online workshop) | Cypress Team and Ambassadors - July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
-
-    ---
-    **Courses over the years:**
-
-    *2023:*
-    - ChatGPT Prompt Engineering for Developers. May 2023. Deep Learning AI.
-
-    *2022:*
-    - How to Manage a Remote Team by the GitLab team. May 2022. Coursera.
-
-    *2021:*
-    - Automated Visual Testing - A Fast Path To Test Automation Success - Angy Jones. January 2021. TAU (Test Automation University).
-    - Web Element Locator Strategies - Andrew Knight. January 2021. TAU (Test Automation University).
-    - Cucumber with Java - Giridhar Rajkumar. January 2021. TAU (Test Automation University).
-
-    *2020:*
-    - Introduction to TestNG - Rex Jones II. January 2020. TAU (Test Automation University).
-    - Introduction to Cypress - Gil Tayar. February 2020. TAU (Test Automation University).
-    - Test Automation- quick start - Rostyslav Apostol. April 2020. Udemy.
-    - Web Application Performance Testing - Mentors Native. April 2020. Udemy.
-    - Test Driven Development con Java y Junit5 - Alejandro Polo Rangel. April 2020. Udemy.
-    - Selenium WebDriver with Java - Angy Jones. September 2020. TAU (Test Automation University).
-    - IntelliJ for Test Automation Engineers - Corina Pip. September 2020. TAU (Test Automation University).
-    - Java Programming - Angy Jones. September 2020. TAU (Test Automation University).
-    - Modern Functional Test Automation Through Visual AI - Raja Rao DV. September 2020. TAU (Test Automation University).
-    - Automated Visual Testing with Appium - Jonathan Lipps. September 2020. TAU (Test Automation University).
-    - Source Control for Test Automation with Git - Simon Berner. September 2020. TAU (Test Automation University).
-    - Setting a Foundation for Successful Test Automation - Angy Jones. January 2020. TAU (Test Automation University).
-
-    *2019:*
-    - CP-SAT - Certified Professional Selenium Automation Testing - Agile Testing Alliance Org. February 2019. Udemy.
-    - Accessibility Features on Android. February 2019. Udemy.
-    - Jenkins Introduction for Developer - Tan Pham. February 2019. Udemy.
-    - CICD (DevOPs Tools) for Automation Testers (Selenium) - Automation Talks. February 2019. Udemy.
-    - Making Chatbot & Voice Apps (with Dialogflow v1) - M.Inzamam Malik. February 2019. Udemy.
-    - Automation Testing With HP UFT 14.00 Latest Version - Pavan Lalwani. April 2019. Udemy.
-    - Everything for Software Tester - Testing World. April 2019. Udemy.
-    - Software Testing By Innovation Techniques - Ganesh Sahai. May 2019. Udemy.
-    - Build+Deploy+Test with Jenkins 2.0 - Karthik KK. June 2019. Udemy.
-
-    *2018:*
-    - Kubernetes Course from a DevOps guru (Kubernetes + Docker). December 2018. Udemy.
-    - Selenium WebDriver with C# for Beginners + Live Testing Site - Tod Vachev. December 2018. Udemy.
-    - Learn DevOps with Jenkins All in One Guide - Eduonix Learning Solutions. December 2018. Udemy.
-    - Software Testing. December 2018. Udemy.
-    - Learn Manual Testing:basics for beginners - Naveen Kumar A. December 2018. Udemy.
-
-    *2017:*
-    - Automated Business Readable Web Tests with Selenium and SpecFlow. January 2017. Pluralsight.
-    - Automated Web Testing with Selenium. 4h. February 2017. Pluralsight.
-    - Docker Deep Dive. February 2017. Pluralsight.
+    - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
+    - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
+    - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
+    - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
+    - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+    - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+    - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+    - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
