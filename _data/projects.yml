@@ -2,73 +2,98 @@
   name: Penpot QA (Open Source)
   link: https://github.com/penpot/penpotqa
   description: |
-    Contributing to the QA automation suite of <mark>Penpot</mark>, the open-source design and collaboration platform by Kaleidos. Working on improving product quality through Playwright-based E2E tests, helping ensure reliability for a tool used by thousands of designers and developers worldwide.
+    Active contributor to the QA automation suite of <mark>Penpot</mark>, the leading open-source design and collaboration platform by Kaleidos. Contributing E2E tests with <mark>Playwright</mark> and TypeScript to help ensure reliability for a tool used by thousands of designers and developers worldwide.
+
+    **Technologies:** Playwright, TypeScript, GitHub Actions.
 
 - layout: left
   name: Playwright Template
   link: https://github.com/estefafdez/playwright-template
   description: |
-    A ready Playwright template with TypeScript, Page Object Model, API Tests, GitHub Actions CI/CD, Qase integration and SonarCloud for code quality. A great starting point for any modern E2E automation project.
+    Production-ready <mark>Playwright</mark> template with everything you need to start automating from day one. Designed as a solid, reusable foundation for modern E2E automation projects.
+
+    - Page Object Model pattern
+    - API testing included
+    - GitHub Actions CI/CD pipeline
+    - Qase integration for test management
+    - SonarCloud for code quality
+
+    **Technologies:** Playwright, TypeScript, Node, GitHub Actions, Qase, SonarCloud.
+
+- layout: left
+  name: Cypress Template
+  link: https://github.com/estefafdez/cypress-template
+  description: |
+    Production-ready <mark>Cypress</mark> template for E2E and API testing, structured for real-world projects.
+
+    - Page Object Model pattern
+    - API testing included
+    - GitHub Actions CI/CD pipeline
+    - Qase integration for test management
+    - SonarCloud for code quality
+
+    **Technologies:** Cypress, TypeScript, Node, GitHub Actions, Qase, SonarCloud.
 
 - layout: left
   name: Cypress Component Testing
   link: https://github.com/estefafdez/cypress-component
   description: |
-    Cypress Component Demo with a Counter React component.
-    Genially: https://view.genial.ly/64536a9a3140d6001274a16a
-    Video: https://www.youtube.com/watch?v=OK8i2ExZl-o
+    Demo project showcasing <mark>Cypress Component Testing</mark> with a Counter React component — a practical example of testing UI components in isolation without needing a full browser environment.
+
+    [Watch the talk](https://www.youtube.com/watch?v=OK8i2ExZl-o) · [View the Genially](https://view.genial.ly/64536a9a3140d6001274a16a)
+
+    **Technologies:** Cypress, React, JavaScript.
 
 - layout: left
   name: Una QA En Apuros (Blog)
   link: https://unaqaenapuros.wordpress.com/
   description: |
-    Creation of the blog “Una QA en Apuros” on Wordpress where I published articles related with the software quality focus on the automation testing open source tools such as Appium, Selenium or Cypress. 
-    Also you can find articles about CI/CD tools such as Jenkins.
+    Personal blog about Software Quality and test automation, publishing articles since 2017. Covers automation tools like <mark>Playwright</mark>, Selenium and Appium, CI/CD practices with Jenkins and GitHub Actions, and quality culture in software teams.
 
 - layout: left
   name: Appium Native Java Example
   link: https://github.com/estefafdez/appium-native-java-example
   description: |
-    Example on iOS and Android using Appium. The aim of this project is provide a maven project in order to run automated test with Android and iOS easily.
+    Maven project for running automated tests on iOS and Android using <mark>Appium</mark>. A practical starting point for mobile automation that works across both platforms with minimal setup.
+
+    **Technologies:** Appium, Java, Maven, iOS, Android.
 
 - layout: left
-  name: cypress-template
-  link: https://github.com/estefafdez/cypress-template
-  description: |
-    Example of a real project based in Cypress with Page Object Model Implemented, API Tests, Github Actions and SonarCloud included.
-
-- layout: left
-  name: selenium-template
+  name: Selenium Template
   link: https://github.com/estefafdez/selenium-template
   description: |
-    Example of a real project based in Selenium with Page Object Model Implemented and Travis CI.
+    Clean <mark>Selenium WebDriver</mark> project template with Page Object Model and CI integration — a reference structure for Java-based web automation projects.
+
+    **Technologies:** Selenium WebDriver, Java, Maven, Travis CI.
 
 - layout: left
   name: Selenium Pipeline on Jenkins
   link: https://github.com/estefafdez/selenium-pipeline
   description: |
-    Run your Selenium Test easily using this declarative pipeline on Jenkins.
+    Declarative Jenkins pipeline to run <mark>Selenium</mark> tests automatically — a plug-and-play CI setup for Java automation projects.
 
-- layout: left
-  name: Barista Android App
-  link: https://github.com/estefafdez/AndroidBaristaProject
-  description: |
-    A simple Android App along with Barista for Testing Purposes.
-
-- layout: left
-  name: iOS Test App
-  link: https://github.com/estefafdez/iOSTestApp
-  description: |
-    A simple iOS App with Swift and Xcode 8 for Testing Purposes.
+    **Technologies:** Selenium, Jenkins, Declarative Pipelines, Groovy.
 
 - layout: left
   name: Selenium Cucumber Project
   link: https://github.com/estefafdez/selenium-cucumber/
   description: |
-    This project is a Selenium Webdriver 3.0.1 integration with Cucumber on Java and include several features, such as:
+    <mark>Selenium WebDriver</mark> integrated with <mark>Cucumber</mark> for BDD-style test automation in Java. Includes a rich set of predefined steps, multi-browser and multi-OS support via POM configuration, and SonarQube for code quality.
 
-    - Choose your OS, Browser and Log Level on the POM: On the pom.xml file you can choose between: Several OS: Windows, Mac, Linux, several Browsers: Chrome, Firefox, IE and several log level configuration: All, Debug, Info, Warn, Error, Fatal, Off.
+    **Technologies:** Selenium WebDriver, Cucumber, Java, TestNG, JUnit, Maven, SonarQube, Docker.
 
-    - Step Definition By Action: On this project you can find the following set of predefined steps ordered by action already done for you. The types of actions are: Assertion Steps, Click Steps, Configuration Steps, Input Steps...
+- layout: left
+  name: Barista Android App
+  link: https://github.com/estefafdez/AndroidBaristaProject
+  description: |
+    Android application built for testing purposes, using <mark>Barista</mark> — a wrapper over Espresso that makes Android UI testing simpler and more readable.
 
-    - SonarQube included: In order to maintain the quality of your code and your project, SonarQube is included on this repository, also the instruction to run SonarQube on Docker easily.
+    **Technologies:** Android, Java, Barista, Espresso.
+
+- layout: left
+  name: iOS Test App
+  link: https://github.com/estefafdez/iOSTestApp
+  description: |
+    Simple iOS application built with Swift and Xcode, designed as a target app for mobile testing practice with Appium and XCUITest.
+
+    **Technologies:** Swift, Xcode, iOS.

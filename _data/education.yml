@@ -2,35 +2,49 @@
   name: Master in Software Engineering and Technology
   dates: 2013 - 2014
   qualification: University of Seville
+  description: |
+    Postgraduate programme focused on advanced software engineering practices, software architecture, project management and quality assurance methodologies.
 
 - layout: top-middle
   name: Technical Engineer of Computer Science Management
   dates: 2005 - 2012
   qualification: University of Córdoba
+  description: |
+    Degree covering software development, systems administration, databases, networks and computer management. Included an Erasmus exchange year in the Czech Republic.
 
 - layout: top-middle
   name: Erasmus Scholarship
-  dates: 2011 - 2011
-  qualification: Technicka Univerzita Ostrava (Vysoká škola Báňská), Czech Republic
+  dates: 2011 - 2012
+  qualification: VŠB – Technical University of Ostrava, Czech Republic
+  description: |
+    Exchange programme at the Faculty of Electrical Engineering and Computer Science. An invaluable experience that developed my adaptability, independence and cross-cultural communication skills.
 
-# Aditional training
-
-- layout: top-middle
-  name: ISTQB Foundation Level
-  dates: July 2018.
-  qualification: ISTQB - International Software Testing Qualifications Board
+# Additional certifications & training
 
 - layout: top-middle
-  name: Scrum Manager
-  dates: November 2017.
-  qualification: Scrum Manager. ID 15465.
+  name: ISTQB® Foundation Level (CTFL)
+  dates: July 2018
+  qualification: ISTQB – International Software Testing Qualifications Board
+  description: |
+    International certification in software testing fundamentals, covering test design techniques, test management, and defect lifecycle.
 
 - layout: top-middle
   name: Cambridge English First (FCE)
-  dates: January 2014.
+  dates: January 2014
   qualification: Cambridge University
+  description: |
+    B2 level certification in English, demonstrating strong reading, writing, listening and speaking skills for professional and academic contexts.
+
+- layout: top-middle
+  name: Scrum Master Certification
+  dates: November 2017
+  qualification: Scrum Manager — ID 15465
+  description: |
+    Certified in Agile project management methodologies with a focus on Scrum frameworks and team collaboration.
 
 - layout: top-middle
   name: Advanced Kubernetes Training
-  dates: 20 hours. May 2018.
-  qualification: Bitnami
+  dates: May 2018
+  qualification: Bitnami — 20 hours
+  description: |
+    Hands-on training covering container orchestration, cluster management, deployments and scaling with Kubernetes.
