@@ -8,7 +8,12 @@
   description: |
     Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
 
-    **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure.
+    - Practicing agentic, AI-assisted development as an increasingly core part of the daily workflow — using tools like Claude Code, GitHub Copilot and opencode.
+    - Building custom AI skills and workflows to automate repetitive QA tasks and speed up test creation.
+    - Prioritizing open-source AI models where possible, keeping tooling choices transparent and beneficial for the whole team.
+    - Sharing AI-assisted engineering practices with the team through internal demos and documentation.
+
+    **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode.
 
 - layout: left
   company: Genially
@@ -25,8 +30,9 @@
     - Defined QA metrics and KPIs to track quality trends and support data-driven decision making.
     - Drove a culture of quality across the company, aligning QA with product, engineering and business goals.
     - Supported Genially's international growth, ensuring quality standards scaled with the product.
+    - Introduced AI-assisted development into the QA workflow, using GitHub Copilot, Cursor and Claude to speed up Cypress test creation and streamline the CI pipelines.
 
-    **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail.
+    **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail, GitHub Copilot, Cursor, Claude.
 
 - layout: left
   company: YouCanBook.Me
