@@ -5,7 +5,7 @@ url: "https://estefafdez.com"
 
 # Personal info
 name: Estefanía Fernández Muñoz
-title: Technical Engineering in Computer Management. Master in Software Engineering and Technology. QA Automation Engineer.
+title: QA Automation Leader — Building and scaling quality engineering teams, remote-first, AI-augmented workflows
 email: estefafdez@gmail.com
 website: https://unaqaenapuros.com/
 
@@ -33,9 +33,11 @@ about_profile_image: images/profile.jpg
 about_content: |
   Hi! I'm Estefanía — a QA Automation Engineer with 10+ years of experience and a Master's in Software Engineering and Technology.
 
+  **QA leadership at 4 companies · 5,000+ automated tests scaled in production · 8+ public talks & podcast appearances · Open-source contributor (Penpot)**
+
   I'm deeply passionate about Software Quality and test automation. Over the years I've built QA departments from the ground up, defined quality strategies, and led teams across international and multicultural environments. Currently I'm part of the QA team at <mark>Kaleidos</mark>, contributing to <mark>Penpot</mark> — an open-source design platform — which perfectly combines my love for quality and open source.
 
-  My current focus is <mark>Playwright</mark> with TypeScript, exploring new programming frameworks and actively contributing to open source projects. I also enjoy sharing knowledge with the community through talks, workshops and blog posts.
+  My current focus is <mark>Playwright</mark> with TypeScript and agentic, AI-assisted engineering — building custom AI skills and workflows to make testing and development faster — while exploring new frameworks and contributing to open source. I also enjoy sharing knowledge with the community through talks, workshops and blog posts.
 
   A few things about me:
 
@@ -46,6 +48,8 @@ about_content: |
   - ISTQB® Foundation Level (CTFL) certified.
   - First Certificate in English (FCE) — strong communicator across international teams.
   - Detail-oriented, proactive and a true team player.
+
+  While I'm not actively job hunting, I'm always happy to connect with international, remote-first teams that need strong QA foundations — especially companies building or scaling a QA function from scratch, which is where I thrive. Comfortable working across languages, time zones and cultures in fully international environments.
 
   Feel free to reach out at <mark>estefafdez@gmail.com</mark> or connect with me on social media — I'm always happy to talk about QA, testing and automation!
 
@@ -69,9 +73,15 @@ content:
         quote: >
           The open-source design tool for design and code collaboration.
         description: |
-          Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+          Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform, within a <mark>flat, non-hierarchical organization</mark> — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
 
-          **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure.
+          - Building E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription and billing scenarios.
+          - Practicing agentic, AI-assisted development as an increasingly core part of the daily workflow — using tools like Claude Code, GitHub Copilot and opencode.
+          - Building custom AI skills and workflows to automate repetitive QA tasks and speed up test creation.
+          - Prioritizing open-source AI models where possible, keeping tooling choices transparent and beneficial for the whole team.
+          - Sharing AI-assisted engineering practices with the team through internal demos and documentation.
+
+          **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode, Stripe.
 
       - layout: left
         title: Genially
@@ -84,13 +94,32 @@ content:
         description: |
           Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
 
-          - Built and mentored a team of QA Engineers, coordinating their work across multiple product squads.
-          - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting.
+          - Built and led a team of 4 QA Engineers, coordinating their work across multiple product squads.
+          - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting — scaling to ~5,000 automated tests running in ~40 minutes across 20 parallel workers.
+          - Designed and built an internal QA API that provisioned test users on the fly via API/backend calls — pre-loaded with the exact account type, license and content state each test needed — cutting setup to a single login request and keeping the suite fast as it grew.
+          - Built E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription renewals and billing edge cases.
           - Defined QA metrics and KPIs to track quality trends and support data-driven decision making.
           - Drove a culture of quality across the company, aligning QA with product, engineering and business goals.
           - Supported Genially's international growth, ensuring quality standards scaled with the product.
+          - Introduced AI-assisted development into the QA workflow, using GitHub Copilot, Cursor and Claude to speed up Cypress test creation and streamline the CI pipelines.
 
-          **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail.
+          **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail, GitHub Copilot, Cursor, Claude, Stripe.
+
+      - layout: left
+        title: Community & Talks
+        sub_title: Speaker · Podcast Guest · Workshop Facilitator
+        caption: 2019 - Present
+        description: |
+          Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
+
+          - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
+          - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
+          - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
+          - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
+          - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+          - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+          - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+          - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
 
       - layout: left
         title: YouCanBook.Me
@@ -168,22 +197,6 @@ content:
           First QA role — contributed to the Motorcycles project, a new line of business for Admiral Spain. Developed automated tests in Java using Selenium WebDriver with Oracle database access. Set up CI deployments using Jenkins and documented test results for the development team.
 
           **Technologies:** Selenium WebDriver, Java, JUnit, TestNG, TestLink, Jenkins.
-
-      - layout: left
-        title: Community & Talks
-        sub_title: Speaker · Podcast Guest · Workshop Facilitator
-        caption: 2019 - Present
-        description: |
-          Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
-
-          - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
-          - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
-          - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
-          - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
-          - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
-          - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
-          - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
-          - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
 
   - title: Skills
     layout: text
