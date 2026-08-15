@@ -46,7 +46,7 @@
 
 - layout: left
   name: Una QA En Apuros (Blog)
-  link: https://unaqaenapuros.wordpress.com/
+  link: https://unaqaenapuros.com/
   description: |
     Personal blog about Software Quality and test automation, publishing articles since 2017. Covers automation tools like <mark>Playwright</mark>, Selenium and Appium, CI/CD practices with Jenkins and GitHub Actions, and quality culture in software teams.
 

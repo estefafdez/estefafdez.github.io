@@ -1,12 +1,13 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
+url: "https://estefafdez.com"
 
 # Personal info
 name: Estefanía Fernández Muñoz
 title: Technical Engineering in Computer Management. Master in Software Engineering and Technology. QA Automation Engineer.
 email: estefafdez@gmail.com
-website: https://unaqaenapuros.wordpress.com/
+website: https://unaqaenapuros.com/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -22,7 +23,7 @@ medium_username: estefafdez
 additional_links:
   - title: Una QA en Apuros (Blog)
     icon: fas fa-blog
-    url: https://unaqaenapuros.wordpress.com/
+    url: https://unaqaenapuros.com/
   - title: Book a call
     icon: far fa-calendar
     url: https://app.timetime.in/rp/estefafdez
@@ -50,7 +51,7 @@ about_content: |
 
   Prefer a quick call? [Book a slot here](https://app.timetime.in/rp/estefafdez)
 
-  Also check out my QA & Automation blog: [Una QA en Apuros](https://unaqaenapuros.wordpress.com/)
+  Also check out my QA & Automation blog: [Una QA en Apuros](https://unaqaenapuros.com/)
 
 # Version 2 - controls section order
 version: 2
@@ -303,8 +304,8 @@ content:
 
       - layout: left
         title: Una QA En Apuros (Blog)
-        link: https://unaqaenapuros.wordpress.com/
-        link_text: unaqaenapuros.wordpress.com
+        link: https://unaqaenapuros.com/
+        link_text: unaqaenapuros.com
         description: |
           Personal blog about Software Quality and test automation, publishing articles since 2017. Covers automation tools like <mark>Playwright</mark>, Selenium and Appium, CI/CD practices with Jenkins and GitHub Actions, and quality culture in software teams.
 
