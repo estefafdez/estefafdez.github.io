@@ -96,11 +96,11 @@
 <td style="border:none; vertical-align:top;">
 
 # Estefanía Fernández Muñoz
-**QA Automation Engineer**
+**QA Automation Leader**
 
 Sevilla, Spain · estefafdez@gmail.com · +34 663 637 505
 
-[GitHub](https://github.com/estefafdez) · [Website](https://estefafdez.github.io/) · [Blog](https://unaqaenapuros.wordpress.com/) · [Medium](https://estefafdez.medium.com/)
+[GitHub](https://github.com/estefafdez) · [Website](https://estefafdez.com/) · [Blog](https://unaqaenapuros.com/) · [Medium](https://estefafdez.medium.com/)
 
 </td>
 <td style="border:none; vertical-align:top; text-align:right; width:160px;">
@@ -114,13 +114,17 @@ Sevilla, Spain · estefafdez@gmail.com · +34 663 637 505
 
 QA Automation Engineer with 10+ years of experience and a Master's in Software Engineering and Technology. Deeply passionate about Software Quality and test automation — I've built QA departments from the ground up, defined quality strategies, and led teams across international and multicultural environments.
 
-Currently contributing to the QA team at Kaleidos (Penpot), an open-source design and collaboration platform. My current focus is Playwright with TypeScript, and I actively contribute to open source projects and share knowledge through talks, workshops and blog posts.
+**QA leadership at 4 companies · 5,000+ automated tests scaled in production · 8+ public talks & podcast appearances · Open-source contributor (Penpot)**
+
+Currently contributing to the QA team at Kaleidos (Penpot), an open-source design and collaboration platform. My current focus is Playwright with TypeScript and agentic, AI-assisted engineering — building custom AI skills and workflows to make testing and development faster. I actively contribute to open source projects and share knowledge through talks, workshops and blog posts.
 
 - 10+ years in QA, with experience building and leading QA teams from scratch
 - Skilled with Playwright, Cypress, Selenium WebDriver and Appium
 - Speaker and community contributor — talks, workshops and podcast appearances
 - ISTQB® Foundation Level (CTFL) certified
 - First Certificate in English (FCE) — strong communicator across international teams
+
+While I'm not actively job hunting, I'm always happy to connect with international, remote-first teams that need strong QA foundations — especially companies building or scaling a QA function from scratch, which is where I thrive.
 
 ---
 
@@ -129,9 +133,14 @@ Currently contributing to the QA team at Kaleidos (Penpot), an open-source desig
 ### QA Automation Engineer · Kaleidos (Penpot) · Remote
 **July 2025 – Present**
 
-Contributing to the QA team at Kaleidos for [Penpot](https://penpot.app/), the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+Contributing to the QA team at Kaleidos for [Penpot](https://penpot.app/), the leading open-source design and collaboration platform, within a flat, non-hierarchical organization — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
 
-**Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure.
+- Building E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription and billing scenarios
+- Practicing agentic, AI-assisted development as an increasingly core part of the daily workflow — using tools like Claude Code, GitHub Copilot and opencode
+- Building custom AI skills and workflows to automate repetitive QA tasks and speed up test creation
+- Prioritizing open-source AI models where possible, keeping tooling choices transparent and beneficial for the whole team
+
+**Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode, Stripe.
 
 ---
 
@@ -140,13 +149,16 @@ Contributing to the QA team at Kaleidos for [Penpot](https://penpot.app/), the l
 
 Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
 
-- Built and mentored a team of QA Engineers, coordinating their work across multiple product squads
-- Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting
+- Built and led a team of 4 QA Engineers, coordinating their work across multiple product squads
+- Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting — scaling to ~5,000 automated tests running in ~40 minutes across 20 parallel workers
+- Designed and built an internal QA API that provisioned test users on the fly via API/backend calls — pre-loaded with the exact account type, license and content state each test needed — cutting setup to a single login request and keeping the suite fast as it grew
+- Built E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription renewals and billing edge cases
 - Defined QA metrics and KPIs to track quality trends and support data-driven decision making
 - Drove a culture of quality across the company, aligning QA with product, engineering and business goals
 - Supported Genially's international growth, ensuring quality standards scaled with the product
+- Introduced AI-assisted development into the QA workflow, using GitHub Copilot, Cursor and Claude to speed up Cypress test creation and streamline the CI pipelines
 
-**Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail.
+**Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail, GitHub Copilot, Cursor, Claude, Stripe.
 
 ---
 
@@ -268,7 +280,7 @@ Selenium WebDriver integrated with Cucumber for BDD-style automation in Java. Mu
 
 **Technologies:** Selenium WebDriver, Cucumber, Java, TestNG, JUnit, Maven, SonarQube, Docker.
 
-### [Una QA en Apuros (Blog)](https://unaqaenapuros.wordpress.com/)
+### [Una QA en Apuros (Blog)](https://unaqaenapuros.com/)
 Personal blog about Software Quality and test automation, publishing articles since 2017. Covers Playwright, Selenium, Appium, CI/CD and quality culture.
 
 <div style="page-break-before: always;"></div>

@@ -6,14 +6,15 @@
   quote: >
     The open-source design tool for design and code collaboration.
   description: |
-    Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+    Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform, within a <mark>flat, non-hierarchical organization</mark> — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
 
+    - Building E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription and billing scenarios.
     - Practicing agentic, AI-assisted development as an increasingly core part of the daily workflow — using tools like Claude Code, GitHub Copilot and opencode.
     - Building custom AI skills and workflows to automate repetitive QA tasks and speed up test creation.
     - Prioritizing open-source AI models where possible, keeping tooling choices transparent and beneficial for the whole team.
     - Sharing AI-assisted engineering practices with the team through internal demos and documentation.
 
-    **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode.
+    **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode, Stripe.
 
 - layout: left
   company: Genially
@@ -25,14 +26,32 @@
   description: |
     Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
 
-    - Built and mentored a team of QA Engineers, coordinating their work across multiple product squads.
-    - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting.
+    - Built and led a team of 4 QA Engineers, coordinating their work across multiple product squads.
+    - Designed and evolved the automation stack end-to-end: test frameworks, CI/CD pipelines, dashboards, alerting and reporting — scaling to ~5,000 automated tests running in ~40 minutes across 20 parallel workers.
+    - Designed and built an internal QA API that provisioned test users on the fly via API/backend calls — pre-loaded with the exact account type, license and content state each test needed — cutting setup to a single login request and keeping the suite fast as it grew.
+    - Built E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription renewals and billing edge cases.
     - Defined QA metrics and KPIs to track quality trends and support data-driven decision making.
     - Drove a culture of quality across the company, aligning QA with product, engineering and business goals.
     - Supported Genially's international growth, ensuring quality standards scaled with the product.
     - Introduced AI-assisted development into the QA workflow, using GitHub Copilot, Cursor and Claude to speed up Cypress test creation and streamline the CI pipelines.
 
-    **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail, GitHub Copilot, Cursor, Claude.
+    **Technologies:** Cypress, TypeScript, JavaScript, Node, React Testing Library, Python, Groovy, Jenkins, Declarative Pipelines, K8S, Grafana, TestRail, GitHub Copilot, Cursor, Claude, Stripe.
+
+- layout: left
+  company: Community & Talks
+  job_title: Speaker · Podcast Guest · Workshop Facilitator
+  dates: 2019 - Present
+  description: |
+    Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
+
+    - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
+    - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
+    - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
+    - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
+    - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
+    - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
+    - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
+    - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
 
 - layout: left
   company: YouCanBook.Me
@@ -105,18 +124,3 @@
 
     **Technologies:** Selenium WebDriver, Java, JUnit, TestNG, TestLink, Jenkins.
 
-- layout: left
-  company: Community & Talks
-  job_title: Speaker · Podcast Guest · Workshop Facilitator
-  dates: 2019 - Present
-  description: |
-    Regularly sharing knowledge about QA, test automation and quality culture through public talks, workshops and podcast appearances.
-
-    - [Scaling Your Testing Strategy — Cypress Workshop · July 2023](https://www.youtube.com/watch?v=F2_khWMj19A)
-    - [All-in Pruebas Automatizadas — Sngular Meetup · June 2023](https://www.youtube.com/watch?v=OK8i2ExZl-o&t=2133s)
-    - [¿Qué es el rol de QA tester? — Codely #laFunción 8x17 · February 2023](https://www.youtube.com/watch?v=vbNbfBE2D7s)
-    - [Automatización de Pruebas — República Web #208 · June 2022](https://www.youtube.com/watch?v=BEN2t_DXEB4)
-    - [Programando se entienden las máquinas — Podcast Aula Software Libre · December 2020](https://www.uco.es/aulasoftwarelibre/2743-episodio-2-estefania-fernandez-munoz/)
-    - [Mujeres en Testing — Northem Quality · October 2020](https://www.youtube.com/watch?v=jsU059nMYUo&feature=youtu.be)
-    - [Pruebas iOS con Appium — Salmorejotech · 2019](https://www.youtube.com/watch?v=xLLbVCjUV-8&li)
-    - [Test automáticos iOS con Appium — Open South Code · 2019](https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/171)
