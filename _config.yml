@@ -76,7 +76,7 @@ content:
           Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform, within a <mark>flat, non-hierarchical organization</mark> — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through both manual and automated testing, and building quality practices into the development workflow from the ground up.
 
           - Designing and executing manual test cases and test plans — functional testing including regression, smoke and exploratory testing — across different operating systems and browsers.
-          - Building E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription and billing scenarios.
+          - Building E2E tests with Playwright across the product, including Stripe payment integration flows with time-travel/clock manipulation to validate subscription and billing scenarios.
           - Maintaining GitHub Actions and CI pipelines for daily scheduled automated test runs, reviewing daily test reports and fixing tests broken by upstream changes.
           - Detecting bugs and tracking them in Taiga and GitHub issues, defining severity and priority and providing support through to resolution.
           - Mentoring team members and contributing to technical and process documentation.
