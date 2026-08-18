@@ -73,15 +73,19 @@ content:
         quote: >
           The open-source design tool for design and code collaboration.
         description: |
-          Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform, within a <mark>flat, non-hierarchical organization</mark> — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through test automation, exploratory testing, and building quality practices into the development workflow from the ground up.
+          Contributing to the QA team at Kaleidos for <mark>Penpot</mark>, the leading open-source design and collaboration platform, within a <mark>flat, non-hierarchical organization</mark> — no team at Kaleidos uses formal "lead" titles, so scope here comes from ownership and initiative rather than hierarchy. Working closely with engineers to improve product reliability through both manual and automated testing, and building quality practices into the development workflow from the ground up.
 
+          - Designing and executing manual test cases and test plans — functional testing including regression, smoke and exploratory testing — across different operating systems and browsers.
           - Building E2E tests for Stripe-based payment flows, including time-travel/clock manipulation to validate subscription and billing scenarios.
+          - Maintaining GitHub Actions and CI pipelines for daily scheduled automated test runs, reviewing daily test reports and fixing tests broken by upstream changes.
+          - Detecting bugs and tracking them in Taiga and GitHub issues, defining severity and priority and providing support through to resolution.
+          - Mentoring team members and contributing to technical and process documentation.
           - Practicing agentic, AI-assisted development as an increasingly core part of the daily workflow — using tools like Claude Code, GitHub Copilot and opencode.
           - Building custom AI skills and workflows to automate repetitive QA tasks and speed up test creation.
           - Prioritizing open-source AI models where possible, keeping tooling choices transparent and beneficial for the whole team.
           - Sharing AI-assisted engineering practices with the team through internal demos and documentation.
 
-          **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Clojure, Claude Code, GitHub Copilot, opencode, Stripe.
+          **Technologies:** Playwright, TypeScript, JavaScript, Node, GitHub Actions, Qase, Taiga, Clojure, Claude Code, GitHub Copilot, opencode, Stripe.
 
       - layout: left
         title: Genially
