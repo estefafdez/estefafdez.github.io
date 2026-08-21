@@ -149,7 +149,7 @@ Contributing to the QA team at Kaleidos for [Penpot](https://penpot.app/), the l
 ---
 
 ### Head of QA · Genially · Remote
-**January 2020 – May 2025**
+**January 2021 – May 2025**
 
 Led the QA function at Genially as Head of QA, defining and owning the entire quality strategy for an interactive content platform used by millions worldwide. Reported directly to the CTO and worked across the full Technology department — from individual squads to company-wide quality culture.
 
