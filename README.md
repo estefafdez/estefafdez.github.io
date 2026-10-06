@@ -1,5 +1,7 @@
 # Personal website
 
+![License](https://img.shields.io/github/license/estefafdez/estefafdez.github.io)
+
 [![Deploy](https://github.com/estefafdez/estefafdez.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/estefafdez/estefafdez.github.io/actions/workflows/deploy.yml)
 
 Jekyll CV and portfolio at [estefafdez.com](https://estefafdez.com/).
