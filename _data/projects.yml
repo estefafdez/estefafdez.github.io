@@ -64,7 +64,7 @@
   description: |
     Clean <mark>Selenium WebDriver</mark> project template with Page Object Model and CI integration — a reference structure for Java-based web automation projects.
 
-    **Technologies:** Selenium WebDriver, Java, Maven, Travis CI.
+    **Technologies:** Selenium WebDriver, Java, Maven, GitHub Actions.
 
 - layout: left
   name: Selenium Pipeline on Jenkins
